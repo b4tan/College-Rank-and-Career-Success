@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 scorecard = pd.read_csv('College_Scorecard_Data.csv')
+print("Shape", scorecard.shape)
 scorecard.head()
 print(scorecard.shape)
 
