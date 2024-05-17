@@ -1,24 +1,24 @@
 import pandas as pd
-import numpy as np
 
 scorecard = pd.read_csv('College_Scorecard_Data.csv')
-print("Shape", scorecard.shape)
-scorecard.head()
-print(scorecard.shape)
 
 rankings = pd.read_csv('worldUniRankings_USA-1.csv')
 
-print("Rankings shape", rankings.shape)
+# Rename institution column and filter scorecard to only contain institutions in rankings
+scorecard = scorecard[
+  scorecard['INSTNM']
+  .isin(rankings['Institution'])
+  ]
 
-scorecard = scorecard[scorecard['INSTNM'].isin(rankings['Institution'])].reset_index()
-scorecard = scorecard.dropna(axis=1, how='any')
-print("Scorecard shape:", scorecard.shape)
-
+# Rename column for join
 rankings = rankings.rename({'Institution' : 'INSTNM'},axis=1)
-print(rankings.columns)
 
-data = pd.merge(scorecard, rankings, how='outer')
+combined = (
+  pd.merge(scorecard, rankings, how='outer')
+  .rename({'index' : 'rank'}, axis=1)     
+  .set_index('rank')
+  .sort_index()
+)
 
-data = data.set_index('INSTNM')
-data = data.rename({'index' : 'rank'}, axis=1)
-print(data)
+print("Shape", combined.shape)
+print(combined.head())
