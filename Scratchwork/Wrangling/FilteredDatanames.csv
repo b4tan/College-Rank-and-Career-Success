@@ -1,0 +1,3245 @@
+,Variable Name,description
+0,UNITID,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1,OPEID,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2,OPEID6,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+3,INSTNM,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+4,CITY,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+5,STABBR,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+6,ZIP,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+7,ACCREDAGENCY,
+8,INSTURL,
+9,NPCURL,
+10,SCH_DEG,AY 2015-16
+11,HCM2,
+12,MAIN,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+13,NUMBRANCH,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+14,PREDDEG,"AY2017-18, reported in IPEDS DCY2018-19"
+15,HIGHDEG,"AY2017-18, reported in IPEDS DCY2018-19"
+16,CONTROL,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+17,ST_FIPS,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+18,REGION,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+19,LOCALE,
+20,LOCALE2,
+21,LATITUDE,
+22,LONGITUDE,
+23,CCBASIC,
+24,CCUGPROF,
+25,CCSIZSET,
+26,HBCU,
+27,PBI,
+28,ANNHI,
+29,TRIBAL,
+30,AANAPII,
+31,HSI,
+32,NANTI,
+33,MENONLY,
+34,WOMENONLY,
+35,RELAFFIL,
+36,ADM_RATE,"Fall 2018, reported in IPEDS DCY2018-19"
+37,ADM_RATE_ALL,"Fall 2018, reported in IPEDS DCY2018-19"
+38,SATVR25,"Fall 2018, reported in IPEDS DCY2018-19"
+39,SATVR75,"Fall 2018, reported in IPEDS DCY2018-19"
+40,SATMT25,"Fall 2018, reported in IPEDS DCY2018-19"
+41,SATMT75,"Fall 2018, reported in IPEDS DCY2018-19"
+42,SATWR25,
+43,SATWR75,
+44,SATVRMID,"Fall 2018, reported in IPEDS DCY2018-19"
+45,SATMTMID,"Fall 2018, reported in IPEDS DCY2018-19"
+46,SATWRMID,
+47,ACTCM25,"Fall 2018, reported in IPEDS DCY2018-19"
+48,ACTCM75,"Fall 2018, reported in IPEDS DCY2018-19"
+49,ACTEN25,"Fall 2018, reported in IPEDS DCY2018-19"
+50,ACTEN75,"Fall 2018, reported in IPEDS DCY2018-19"
+51,ACTMT25,"Fall 2018, reported in IPEDS DCY2018-19"
+52,ACTMT75,"Fall 2018, reported in IPEDS DCY2018-19"
+53,ACTWR25,
+54,ACTWR75,
+55,ACTCMMID,"Fall 2018, reported in IPEDS DCY2018-19"
+56,ACTENMID,"Fall 2018, reported in IPEDS DCY2018-19"
+57,ACTMTMID,"Fall 2018, reported in IPEDS DCY2018-19"
+58,ACTWRMID,
+59,SAT_AVG,"Fall 2018, reported in IPEDS DCY2018-19"
+60,SAT_AVG_ALL,"Fall 2018, reported in IPEDS DCY2018-19"
+61,PCIP01,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+62,PCIP03,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+63,PCIP04,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+64,PCIP05,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+65,PCIP09,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+66,PCIP10,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+67,PCIP11,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+68,PCIP12,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+69,PCIP13,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+70,PCIP14,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+71,PCIP15,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+72,PCIP16,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+73,PCIP19,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+74,PCIP22,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+75,PCIP23,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+76,PCIP24,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+77,PCIP25,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+78,PCIP26,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+79,PCIP27,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+80,PCIP29,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+81,PCIP30,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+82,PCIP31,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+83,PCIP38,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+84,PCIP39,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+85,PCIP40,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+86,PCIP41,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+87,PCIP42,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+88,PCIP43,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+89,PCIP44,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+90,PCIP45,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+91,PCIP46,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+92,PCIP47,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+93,PCIP48,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+94,PCIP49,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+95,PCIP50,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+96,PCIP51,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+97,PCIP52,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+98,PCIP54,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+99,CIP01CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+100,CIP01CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+101,CIP01ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+102,CIP01CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+103,CIP01BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+104,CIP03CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+105,CIP03CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+106,CIP03ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+107,CIP03CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+108,CIP03BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+109,CIP04CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+110,CIP04CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+111,CIP04ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+112,CIP04CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+113,CIP04BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+114,CIP05CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+115,CIP05CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+116,CIP05ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+117,CIP05CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+118,CIP05BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+119,CIP09CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+120,CIP09CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+121,CIP09ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+122,CIP09CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+123,CIP09BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+124,CIP10CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+125,CIP10CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+126,CIP10ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+127,CIP10CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+128,CIP10BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+129,CIP11CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+130,CIP11CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+131,CIP11ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+132,CIP11CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+133,CIP11BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+134,CIP12CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+135,CIP12CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+136,CIP12ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+137,CIP12CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+138,CIP12BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+139,CIP13CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+140,CIP13CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+141,CIP13ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+142,CIP13CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+143,CIP13BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+144,CIP14CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+145,CIP14CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+146,CIP14ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+147,CIP14CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+148,CIP14BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+149,CIP15CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+150,CIP15CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+151,CIP15ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+152,CIP15CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+153,CIP15BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+154,CIP16CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+155,CIP16CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+156,CIP16ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+157,CIP16CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+158,CIP16BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+159,CIP19CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+160,CIP19CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+161,CIP19ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+162,CIP19CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+163,CIP19BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+164,CIP22CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+165,CIP22CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+166,CIP22ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+167,CIP22CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+168,CIP22BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+169,CIP23CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+170,CIP23CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+171,CIP23ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+172,CIP23CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+173,CIP23BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+174,CIP24CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+175,CIP24CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+176,CIP24ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+177,CIP24CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+178,CIP24BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+179,CIP25CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+180,CIP25CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+181,CIP25ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+182,CIP25CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+183,CIP25BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+184,CIP26CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+185,CIP26CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+186,CIP26ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+187,CIP26CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+188,CIP26BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+189,CIP27CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+190,CIP27CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+191,CIP27ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+192,CIP27CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+193,CIP27BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+194,CIP29CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+195,CIP29CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+196,CIP29ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+197,CIP29CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+198,CIP29BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+199,CIP30CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+200,CIP30CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+201,CIP30ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+202,CIP30CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+203,CIP30BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+204,CIP31CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+205,CIP31CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+206,CIP31ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+207,CIP31CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+208,CIP31BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+209,CIP38CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+210,CIP38CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+211,CIP38ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+212,CIP38CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+213,CIP38BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+214,CIP39CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+215,CIP39CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+216,CIP39ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+217,CIP39CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+218,CIP39BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+219,CIP40CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+220,CIP40CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+221,CIP40ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+222,CIP40CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+223,CIP40BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+224,CIP41CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+225,CIP41CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+226,CIP41ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+227,CIP41CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+228,CIP41BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+229,CIP42CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+230,CIP42CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+231,CIP42ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+232,CIP42CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+233,CIP42BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+234,CIP43CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+235,CIP43CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+236,CIP43ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+237,CIP43CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+238,CIP43BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+239,CIP44CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+240,CIP44CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+241,CIP44ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+242,CIP44CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+243,CIP44BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+244,CIP45CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+245,CIP45CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+246,CIP45ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+247,CIP45CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+248,CIP45BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+249,CIP46CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+250,CIP46CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+251,CIP46ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+252,CIP46CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+253,CIP46BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+254,CIP47CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+255,CIP47CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+256,CIP47ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+257,CIP47CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+258,CIP47BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+259,CIP48CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+260,CIP48CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+261,CIP48ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+262,CIP48CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+263,CIP48BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+264,CIP49CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+265,CIP49CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+266,CIP49ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+267,CIP49CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+268,CIP49BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+269,CIP50CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+270,CIP50CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+271,CIP50ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+272,CIP50CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+273,CIP50BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+274,CIP51CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+275,CIP51CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+276,CIP51ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+277,CIP51CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+278,CIP51BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+279,CIP52CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+280,CIP52CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+281,CIP52ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+282,CIP52CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+283,CIP52BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+284,CIP54CERT1,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+285,CIP54CERT2,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+286,CIP54ASSOC,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+287,CIP54CERT4,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+288,CIP54BACHL,"AY2017-18, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+289,DISTANCEONLY,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+290,UGDS,"Fall 2018, reported in IPEDS DCY2018-19"
+291,UG,
+292,UGDS_WHITE,"Fall 2018, reported in IPEDS DCY2018-19"
+293,UGDS_BLACK,"Fall 2018, reported in IPEDS DCY2018-19"
+294,UGDS_HISP,"Fall 2018, reported in IPEDS DCY2018-19"
+295,UGDS_ASIAN,"Fall 2018, reported in IPEDS DCY2018-19"
+296,UGDS_AIAN,"Fall 2018, reported in IPEDS DCY2018-19"
+297,UGDS_NHPI,"Fall 2018, reported in IPEDS DCY2018-19"
+298,UGDS_2MOR,"Fall 2018, reported in IPEDS DCY2018-19"
+299,UGDS_NRA,"Fall 2018, reported in IPEDS DCY2018-19"
+300,UGDS_UNKN,"Fall 2018, reported in IPEDS DCY2018-19"
+301,UGDS_WHITENH,
+302,UGDS_BLACKNH,
+303,UGDS_API,
+304,UGDS_AIANOLD,
+305,UGDS_HISPOLD,
+306,UG_NRA,
+307,UG_UNKN,
+308,UG_WHITENH,
+309,UG_BLACKNH,
+310,UG_API,
+311,UG_AIANOLD,
+312,UG_HISPOLD,
+313,PPTUG_EF,"Fall 2018, reported in IPEDS DCY2018-19"
+314,PPTUG_EF2,
+315,CURROPER,
+316,NPT4_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+317,NPT4_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+318,NPT4_PROG,
+319,NPT4_OTHER,
+320,NPT41_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+321,NPT42_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+322,NPT43_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+323,NPT44_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+324,NPT45_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+325,NPT41_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+326,NPT42_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+327,NPT43_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+328,NPT44_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+329,NPT45_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+330,NPT41_PROG,
+331,NPT42_PROG,
+332,NPT43_PROG,
+333,NPT44_PROG,
+334,NPT45_PROG,
+335,NPT41_OTHER,
+336,NPT42_OTHER,
+337,NPT43_OTHER,
+338,NPT44_OTHER,
+339,NPT45_OTHER,
+340,NPT4_048_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+341,NPT4_048_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+342,NPT4_048_PROG,
+343,NPT4_048_OTHER,
+344,NPT4_3075_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+345,NPT4_3075_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+346,NPT4_75UP_PUB,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+347,NPT4_75UP_PRIV,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+348,NPT4_3075_PROG,
+349,NPT4_3075_OTHER,
+350,NPT4_75UP_PROG,
+351,NPT4_75UP_OTHER,
+352,NUM4_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+353,NUM4_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+354,NUM4_PROG,
+355,NUM4_OTHER,
+356,NUM41_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+357,NUM42_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+358,NUM43_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+359,NUM44_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+360,NUM45_PUB,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+361,NUM41_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+362,NUM42_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+363,NUM43_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+364,NUM44_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+365,NUM45_PRIV,"Fall 2017 or AY2017-18 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+366,NUM41_PROG,
+367,NUM42_PROG,
+368,NUM43_PROG,
+369,NUM44_PROG,
+370,NUM45_PROG,
+371,NUM41_OTHER,
+372,NUM42_OTHER,
+373,NUM43_OTHER,
+374,NUM44_OTHER,
+375,NUM45_OTHER,
+376,COSTT4_A,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+377,COSTT4_P,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+378,TUITIONFEE_IN,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+379,TUITIONFEE_OUT,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+380,TUITIONFEE_PROG,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+381,TUITFTE,"FY2018 (numerator) and AY2017-18 (denominator), reported in IPEDS DCY2018-19"
+382,INEXPFTE,"FY2018 (numerator) and AY2017-18 (denominator), reported in IPEDS DCY2018-19"
+383,AVGFACSAL,"AcadYr 2018-19 salaries of Fall 2018 faculty, reported in IPEDS DCY2018-19"
+384,PFTFAC,"Fall 2018, reported in IPEDS DCY2018-19"
+385,PCTPELL,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+386,C150_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+387,C150_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+388,C150_4_POOLED,
+389,C150_L4_POOLED,
+390,POOLYRS,
+391,PFTFTUG1_EF,"Fall 2018, reported in IPEDS DCY2018-19"
+392,D150_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+393,D150_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+394,D150_4_POOLED,
+395,D150_L4_POOLED,
+396,C150_4_WHITE,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+397,C150_4_BLACK,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+398,C150_4_HISP,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+399,C150_4_ASIAN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+400,C150_4_AIAN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+401,C150_4_NHPI,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+402,C150_4_2MOR,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+403,C150_4_NRA,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+404,C150_4_UNKN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+405,C150_4_WHITENH,
+406,C150_4_BLACKNH,
+407,C150_4_API,
+408,C150_4_AIANOLD,
+409,C150_4_HISPOLD,
+410,C150_L4_WHITE,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+411,C150_L4_BLACK,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+412,C150_L4_HISP,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+413,C150_L4_ASIAN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+414,C150_L4_AIAN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+415,C150_L4_NHPI,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+416,C150_L4_2MOR,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+417,C150_L4_NRA,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+418,C150_L4_UNKN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+419,C150_L4_WHITENH,
+420,C150_L4_BLACKNH,
+421,C150_L4_API,
+422,C150_L4_AIANOLD,
+423,C150_L4_HISPOLD,
+424,C200_4,"Fall 2010 or AcadYr 2010-11 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+425,C200_L4,"Fall 2014 or AcadYr 2014-15 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+426,D200_4,"Fall 2010 or AcadYr 2010-11 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+427,D200_L4,"Fall 2014 or AcadYr 2014-15 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+428,RET_FT4,"Fall 2017 bachelor's-seeking cohort, reported in IPEDS DCY2018-19"
+429,RET_FTL4,"Fall 2017 cohort, reported in IPEDS DCY2018-19"
+430,RET_PT4,"Fall 2017 bachelor's-seeking cohort, reported in IPEDS DCY2018-19"
+431,RET_PTL4,"Fall 2017 cohort, reported in IPEDS DCY2018-19"
+432,C200_4_POOLED,
+433,C200_L4_POOLED,
+434,POOLYRS200,
+435,D200_4_POOLED,
+436,D200_L4_POOLED,
+437,PCTFLOAN,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+438,UG25ABV,
+439,CDR2,
+440,CDR3,FSA FY2016 cohort measured in FY2018
+441,DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+442,COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+443,COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+444,COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+445,WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+446,WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+447,WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+448,ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+449,ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+450,ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+451,UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+452,UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+453,UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+454,LO_INC_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+455,LO_INC_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+456,LO_INC_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+457,LO_INC_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+458,LO_INC_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+459,LO_INC_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+460,LO_INC_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+461,LO_INC_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+462,LO_INC_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+463,LO_INC_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+464,LO_INC_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+465,LO_INC_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+466,LO_INC_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+467,MD_INC_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+468,MD_INC_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+469,MD_INC_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+470,MD_INC_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+471,MD_INC_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+472,MD_INC_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+473,MD_INC_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+474,MD_INC_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+475,MD_INC_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+476,MD_INC_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+477,MD_INC_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+478,MD_INC_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+479,MD_INC_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+480,HI_INC_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+481,HI_INC_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+482,HI_INC_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+483,HI_INC_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+484,HI_INC_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+485,HI_INC_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+486,HI_INC_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+487,HI_INC_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+488,HI_INC_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+489,HI_INC_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+490,HI_INC_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+491,HI_INC_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+492,HI_INC_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+493,DEP_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+494,DEP_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+495,DEP_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+496,DEP_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+497,DEP_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+498,DEP_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+499,DEP_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+500,DEP_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+501,DEP_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+502,DEP_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+503,DEP_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+504,DEP_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+505,DEP_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+506,IND_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+507,IND_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+508,IND_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+509,IND_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+510,IND_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+511,IND_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+512,IND_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+513,IND_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+514,IND_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+515,IND_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+516,IND_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+517,IND_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+518,IND_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+519,FEMALE_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+520,FEMALE_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+521,FEMALE_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+522,FEMALE_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+523,FEMALE_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+524,FEMALE_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+525,FEMALE_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+526,FEMALE_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+527,FEMALE_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+528,FEMALE_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+529,FEMALE_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+530,FEMALE_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+531,FEMALE_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+532,MALE_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+533,MALE_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+534,MALE_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+535,MALE_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+536,MALE_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+537,MALE_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+538,MALE_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+539,MALE_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+540,MALE_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+541,MALE_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+542,MALE_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+543,MALE_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+544,MALE_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+545,PELL_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+546,PELL_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+547,PELL_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+548,PELL_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+549,PELL_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+550,PELL_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+551,PELL_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+552,PELL_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+553,PELL_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+554,PELL_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+555,PELL_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+556,PELL_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+557,PELL_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+558,NOPELL_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+559,NOPELL_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+560,NOPELL_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+561,NOPELL_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+562,NOPELL_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+563,NOPELL_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+564,NOPELL_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+565,NOPELL_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+566,NOPELL_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+567,NOPELL_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+568,NOPELL_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+569,NOPELL_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+570,NOPELL_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+571,LOAN_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+572,LOAN_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+573,LOAN_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+574,LOAN_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+575,LOAN_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+576,LOAN_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+577,LOAN_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+578,LOAN_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+579,LOAN_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+580,LOAN_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+581,LOAN_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+582,LOAN_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+583,LOAN_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+584,NOLOAN_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+585,NOLOAN_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+586,NOLOAN_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+587,NOLOAN_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+588,NOLOAN_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+589,NOLOAN_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+590,NOLOAN_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+591,NOLOAN_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+592,NOLOAN_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+593,NOLOAN_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+594,NOLOAN_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+595,NOLOAN_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+596,NOLOAN_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+597,FIRSTGEN_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+598,FIRSTGEN_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+599,FIRSTGEN_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+600,FIRSTGEN_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+601,FIRSTGEN_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+602,FIRSTGEN_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+603,FIRSTGEN_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+604,FIRSTGEN_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+605,FIRSTGEN_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+606,FIRSTGEN_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+607,FIRSTGEN_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+608,FIRSTGEN_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+609,FIRSTGEN_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+610,NOT1STGEN_DEATH_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+611,NOT1STGEN_COMP_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+612,NOT1STGEN_COMP_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+613,NOT1STGEN_COMP_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+614,NOT1STGEN_WDRAW_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+615,NOT1STGEN_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+616,NOT1STGEN_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+617,NOT1STGEN_ENRL_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+618,NOT1STGEN_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+619,NOT1STGEN_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+620,NOT1STGEN_UNKN_ORIG_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+621,NOT1STGEN_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+622,NOT1STGEN_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2016-17 cohort measured in AY2018-19
+623,DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+624,COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+625,COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+626,COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+627,WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+628,WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+629,WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+630,ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+631,ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+632,ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+633,UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+634,UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+635,UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+636,LO_INC_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+637,LO_INC_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+638,LO_INC_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+639,LO_INC_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+640,LO_INC_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+641,LO_INC_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+642,LO_INC_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+643,LO_INC_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+644,LO_INC_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+645,LO_INC_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+646,LO_INC_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+647,LO_INC_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+648,LO_INC_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+649,MD_INC_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+650,MD_INC_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+651,MD_INC_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+652,MD_INC_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+653,MD_INC_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+654,MD_INC_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+655,MD_INC_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+656,MD_INC_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+657,MD_INC_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+658,MD_INC_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+659,MD_INC_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+660,MD_INC_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+661,MD_INC_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+662,HI_INC_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+663,HI_INC_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+664,HI_INC_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+665,HI_INC_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+666,HI_INC_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+667,HI_INC_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+668,HI_INC_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+669,HI_INC_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+670,HI_INC_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+671,HI_INC_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+672,HI_INC_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+673,HI_INC_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+674,HI_INC_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+675,DEP_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+676,DEP_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+677,DEP_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+678,DEP_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+679,DEP_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+680,DEP_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+681,DEP_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+682,DEP_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+683,DEP_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+684,DEP_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+685,DEP_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+686,DEP_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+687,DEP_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+688,IND_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+689,IND_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+690,IND_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+691,IND_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+692,IND_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+693,IND_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+694,IND_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+695,IND_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+696,IND_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+697,IND_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+698,IND_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+699,IND_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+700,IND_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+701,FEMALE_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+702,FEMALE_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+703,FEMALE_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+704,FEMALE_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+705,FEMALE_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+706,FEMALE_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+707,FEMALE_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+708,FEMALE_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+709,FEMALE_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+710,FEMALE_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+711,FEMALE_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+712,FEMALE_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+713,FEMALE_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+714,MALE_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+715,MALE_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+716,MALE_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+717,MALE_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+718,MALE_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+719,MALE_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+720,MALE_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+721,MALE_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+722,MALE_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+723,MALE_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+724,MALE_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+725,MALE_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+726,MALE_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+727,PELL_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+728,PELL_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+729,PELL_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+730,PELL_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+731,PELL_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+732,PELL_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+733,PELL_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+734,PELL_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+735,PELL_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+736,PELL_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+737,PELL_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+738,PELL_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+739,PELL_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+740,NOPELL_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+741,NOPELL_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+742,NOPELL_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+743,NOPELL_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+744,NOPELL_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+745,NOPELL_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+746,NOPELL_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+747,NOPELL_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+748,NOPELL_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+749,NOPELL_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+750,NOPELL_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+751,NOPELL_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+752,NOPELL_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+753,LOAN_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+754,LOAN_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+755,LOAN_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+756,LOAN_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+757,LOAN_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+758,LOAN_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+759,LOAN_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+760,LOAN_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+761,LOAN_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+762,LOAN_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+763,LOAN_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+764,LOAN_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+765,LOAN_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+766,NOLOAN_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+767,NOLOAN_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+768,NOLOAN_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+769,NOLOAN_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+770,NOLOAN_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+771,NOLOAN_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+772,NOLOAN_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+773,NOLOAN_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+774,NOLOAN_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+775,NOLOAN_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+776,NOLOAN_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+777,NOLOAN_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+778,NOLOAN_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+779,FIRSTGEN_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+780,FIRSTGEN_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+781,FIRSTGEN_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+782,FIRSTGEN_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+783,FIRSTGEN_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+784,FIRSTGEN_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+785,FIRSTGEN_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+786,FIRSTGEN_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+787,FIRSTGEN_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+788,FIRSTGEN_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+789,FIRSTGEN_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+790,FIRSTGEN_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+791,FIRSTGEN_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+792,NOT1STGEN_DEATH_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+793,NOT1STGEN_COMP_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+794,NOT1STGEN_COMP_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+795,NOT1STGEN_COMP_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+796,NOT1STGEN_WDRAW_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+797,NOT1STGEN_WDRAW_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+798,NOT1STGEN_WDRAW_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+799,NOT1STGEN_ENRL_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+800,NOT1STGEN_ENRL_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+801,NOT1STGEN_ENRL_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+802,NOT1STGEN_UNKN_ORIG_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+803,NOT1STGEN_UNKN_4YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+804,NOT1STGEN_UNKN_2YR_TRANS_YR3_RT,NSLDS AY2015-16 cohort measured in AY2018-19
+805,DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+806,COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+807,COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+808,COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+809,WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+810,WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+811,WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+812,ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+813,ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+814,ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+815,UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+816,UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+817,UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+818,LO_INC_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+819,LO_INC_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+820,LO_INC_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+821,LO_INC_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+822,LO_INC_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+823,LO_INC_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+824,LO_INC_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+825,LO_INC_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+826,LO_INC_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+827,LO_INC_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+828,LO_INC_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+829,LO_INC_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+830,LO_INC_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+831,MD_INC_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+832,MD_INC_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+833,MD_INC_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+834,MD_INC_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+835,MD_INC_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+836,MD_INC_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+837,MD_INC_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+838,MD_INC_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+839,MD_INC_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+840,MD_INC_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+841,MD_INC_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+842,MD_INC_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+843,MD_INC_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+844,HI_INC_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+845,HI_INC_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+846,HI_INC_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+847,HI_INC_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+848,HI_INC_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+849,HI_INC_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+850,HI_INC_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+851,HI_INC_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+852,HI_INC_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+853,HI_INC_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+854,HI_INC_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+855,HI_INC_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+856,HI_INC_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+857,DEP_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+858,DEP_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+859,DEP_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+860,DEP_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+861,DEP_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+862,DEP_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+863,DEP_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+864,DEP_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+865,DEP_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+866,DEP_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+867,DEP_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+868,DEP_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+869,DEP_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+870,IND_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+871,IND_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+872,IND_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+873,IND_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+874,IND_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+875,IND_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+876,IND_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+877,IND_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+878,IND_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+879,IND_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+880,IND_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+881,IND_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+882,IND_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+883,FEMALE_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+884,FEMALE_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+885,FEMALE_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+886,FEMALE_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+887,FEMALE_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+888,FEMALE_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+889,FEMALE_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+890,FEMALE_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+891,FEMALE_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+892,FEMALE_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+893,FEMALE_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+894,FEMALE_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+895,FEMALE_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+896,MALE_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+897,MALE_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+898,MALE_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+899,MALE_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+900,MALE_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+901,MALE_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+902,MALE_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+903,MALE_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+904,MALE_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+905,MALE_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+906,MALE_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+907,MALE_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+908,MALE_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+909,PELL_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+910,PELL_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+911,PELL_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+912,PELL_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+913,PELL_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+914,PELL_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+915,PELL_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+916,PELL_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+917,PELL_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+918,PELL_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+919,PELL_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+920,PELL_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+921,PELL_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+922,NOPELL_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+923,NOPELL_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+924,NOPELL_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+925,NOPELL_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+926,NOPELL_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+927,NOPELL_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+928,NOPELL_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+929,NOPELL_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+930,NOPELL_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+931,NOPELL_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+932,NOPELL_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+933,NOPELL_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+934,NOPELL_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+935,LOAN_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+936,LOAN_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+937,LOAN_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+938,LOAN_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+939,LOAN_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+940,LOAN_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+941,LOAN_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+942,LOAN_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+943,LOAN_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+944,LOAN_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+945,LOAN_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+946,LOAN_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+947,LOAN_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+948,NOLOAN_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+949,NOLOAN_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+950,NOLOAN_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+951,NOLOAN_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+952,NOLOAN_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+953,NOLOAN_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+954,NOLOAN_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+955,NOLOAN_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+956,NOLOAN_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+957,NOLOAN_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+958,NOLOAN_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+959,NOLOAN_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+960,NOLOAN_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+961,FIRSTGEN_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+962,FIRSTGEN_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+963,FIRSTGEN_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+964,FIRSTGEN_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+965,FIRSTGEN_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+966,FIRSTGEN_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+967,FIRSTGEN_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+968,FIRSTGEN_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+969,FIRSTGEN_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+970,FIRSTGEN_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+971,FIRSTGEN_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+972,FIRSTGEN_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+973,FIRSTGEN_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+974,NOT1STGEN_DEATH_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+975,NOT1STGEN_COMP_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+976,NOT1STGEN_COMP_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+977,NOT1STGEN_COMP_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+978,NOT1STGEN_WDRAW_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+979,NOT1STGEN_WDRAW_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+980,NOT1STGEN_WDRAW_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+981,NOT1STGEN_ENRL_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+982,NOT1STGEN_ENRL_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+983,NOT1STGEN_ENRL_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+984,NOT1STGEN_UNKN_ORIG_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+985,NOT1STGEN_UNKN_4YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+986,NOT1STGEN_UNKN_2YR_TRANS_YR4_RT,NSLDS AY2014-15 cohort measured in AY2018-19
+987,DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+988,COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+989,COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+990,COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+991,WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+992,WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+993,WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+994,ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+995,ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+996,ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+997,UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+998,UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+999,UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1000,LO_INC_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1001,LO_INC_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1002,LO_INC_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1003,LO_INC_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1004,LO_INC_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1005,LO_INC_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1006,LO_INC_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1007,LO_INC_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1008,LO_INC_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1009,LO_INC_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1010,LO_INC_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1011,LO_INC_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1012,LO_INC_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1013,MD_INC_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1014,MD_INC_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1015,MD_INC_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1016,MD_INC_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1017,MD_INC_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1018,MD_INC_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1019,MD_INC_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1020,MD_INC_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1021,MD_INC_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1022,MD_INC_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1023,MD_INC_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1024,MD_INC_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1025,MD_INC_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1026,HI_INC_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1027,HI_INC_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1028,HI_INC_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1029,HI_INC_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1030,HI_INC_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1031,HI_INC_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1032,HI_INC_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1033,HI_INC_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1034,HI_INC_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1035,HI_INC_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1036,HI_INC_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1037,HI_INC_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1038,HI_INC_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1039,DEP_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1040,DEP_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1041,DEP_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1042,DEP_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1043,DEP_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1044,DEP_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1045,DEP_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1046,DEP_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1047,DEP_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1048,DEP_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1049,DEP_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1050,DEP_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1051,DEP_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1052,IND_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1053,IND_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1054,IND_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1055,IND_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1056,IND_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1057,IND_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1058,IND_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1059,IND_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1060,IND_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1061,IND_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1062,IND_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1063,IND_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1064,IND_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1065,FEMALE_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1066,FEMALE_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1067,FEMALE_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1068,FEMALE_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1069,FEMALE_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1070,FEMALE_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1071,FEMALE_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1072,FEMALE_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1073,FEMALE_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1074,FEMALE_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1075,FEMALE_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1076,FEMALE_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1077,FEMALE_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1078,MALE_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1079,MALE_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1080,MALE_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1081,MALE_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1082,MALE_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1083,MALE_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1084,MALE_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1085,MALE_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1086,MALE_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1087,MALE_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1088,MALE_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1089,MALE_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1090,MALE_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1091,PELL_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1092,PELL_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1093,PELL_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1094,PELL_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1095,PELL_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1096,PELL_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1097,PELL_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1098,PELL_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1099,PELL_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1100,PELL_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1101,PELL_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1102,PELL_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1103,PELL_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1104,NOPELL_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1105,NOPELL_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1106,NOPELL_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1107,NOPELL_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1108,NOPELL_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1109,NOPELL_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1110,NOPELL_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1111,NOPELL_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1112,NOPELL_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1113,NOPELL_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1114,NOPELL_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1115,NOPELL_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1116,NOPELL_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1117,LOAN_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1118,LOAN_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1119,LOAN_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1120,LOAN_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1121,LOAN_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1122,LOAN_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1123,LOAN_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1124,LOAN_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1125,LOAN_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1126,LOAN_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1127,LOAN_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1128,LOAN_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1129,LOAN_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1130,NOLOAN_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1131,NOLOAN_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1132,NOLOAN_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1133,NOLOAN_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1134,NOLOAN_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1135,NOLOAN_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1136,NOLOAN_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1137,NOLOAN_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1138,NOLOAN_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1139,NOLOAN_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1140,NOLOAN_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1141,NOLOAN_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1142,NOLOAN_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1143,FIRSTGEN_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1144,FIRSTGEN_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1145,FIRSTGEN_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1146,FIRSTGEN_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1147,FIRSTGEN_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1148,FIRSTGEN_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1149,FIRSTGEN_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1150,FIRSTGEN_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1151,FIRSTGEN_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1152,FIRSTGEN_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1153,FIRSTGEN_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1154,FIRSTGEN_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1155,FIRSTGEN_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1156,NOT1STGEN_DEATH_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1157,NOT1STGEN_COMP_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1158,NOT1STGEN_COMP_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1159,NOT1STGEN_COMP_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1160,NOT1STGEN_WDRAW_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1161,NOT1STGEN_WDRAW_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1162,NOT1STGEN_WDRAW_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1163,NOT1STGEN_ENRL_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1164,NOT1STGEN_ENRL_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1165,NOT1STGEN_ENRL_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1166,NOT1STGEN_UNKN_ORIG_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1167,NOT1STGEN_UNKN_4YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1168,NOT1STGEN_UNKN_2YR_TRANS_YR6_RT,NSLDS AY2012-13 cohort measured in AY2018-19
+1169,DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1170,COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1171,COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1172,COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1173,WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1174,WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1175,WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1176,ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1177,ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1178,ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1179,UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1180,UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1181,UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1182,LO_INC_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1183,LO_INC_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1184,LO_INC_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1185,LO_INC_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1186,LO_INC_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1187,LO_INC_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1188,LO_INC_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1189,LO_INC_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1190,LO_INC_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1191,LO_INC_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1192,LO_INC_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1193,LO_INC_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1194,LO_INC_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1195,MD_INC_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1196,MD_INC_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1197,MD_INC_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1198,MD_INC_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1199,MD_INC_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1200,MD_INC_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1201,MD_INC_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1202,MD_INC_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1203,MD_INC_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1204,MD_INC_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1205,MD_INC_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1206,MD_INC_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1207,MD_INC_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1208,HI_INC_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1209,HI_INC_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1210,HI_INC_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1211,HI_INC_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1212,HI_INC_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1213,HI_INC_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1214,HI_INC_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1215,HI_INC_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1216,HI_INC_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1217,HI_INC_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1218,HI_INC_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1219,HI_INC_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1220,HI_INC_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1221,DEP_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1222,DEP_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1223,DEP_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1224,DEP_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1225,DEP_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1226,DEP_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1227,DEP_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1228,DEP_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1229,DEP_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1230,DEP_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1231,DEP_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1232,DEP_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1233,DEP_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1234,IND_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1235,IND_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1236,IND_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1237,IND_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1238,IND_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1239,IND_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1240,IND_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1241,IND_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1242,IND_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1243,IND_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1244,IND_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1245,IND_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1246,IND_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1247,FEMALE_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1248,FEMALE_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1249,FEMALE_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1250,FEMALE_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1251,FEMALE_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1252,FEMALE_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1253,FEMALE_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1254,FEMALE_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1255,FEMALE_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1256,FEMALE_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1257,FEMALE_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1258,FEMALE_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1259,FEMALE_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1260,MALE_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1261,MALE_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1262,MALE_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1263,MALE_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1264,MALE_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1265,MALE_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1266,MALE_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1267,MALE_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1268,MALE_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1269,MALE_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1270,MALE_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1271,MALE_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1272,MALE_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1273,PELL_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1274,PELL_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1275,PELL_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1276,PELL_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1277,PELL_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1278,PELL_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1279,PELL_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1280,PELL_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1281,PELL_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1282,PELL_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1283,PELL_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1284,PELL_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1285,PELL_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1286,NOPELL_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1287,NOPELL_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1288,NOPELL_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1289,NOPELL_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1290,NOPELL_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1291,NOPELL_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1292,NOPELL_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1293,NOPELL_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1294,NOPELL_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1295,NOPELL_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1296,NOPELL_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1297,NOPELL_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1298,NOPELL_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1299,LOAN_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1300,LOAN_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1301,LOAN_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1302,LOAN_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1303,LOAN_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1304,LOAN_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1305,LOAN_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1306,LOAN_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1307,LOAN_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1308,LOAN_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1309,LOAN_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1310,LOAN_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1311,LOAN_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1312,NOLOAN_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1313,NOLOAN_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1314,NOLOAN_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1315,NOLOAN_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1316,NOLOAN_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1317,NOLOAN_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1318,NOLOAN_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1319,NOLOAN_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1320,NOLOAN_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1321,NOLOAN_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1322,NOLOAN_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1323,NOLOAN_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1324,NOLOAN_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1325,FIRSTGEN_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1326,FIRSTGEN_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1327,FIRSTGEN_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1328,FIRSTGEN_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1329,FIRSTGEN_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1330,FIRSTGEN_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1331,FIRSTGEN_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1332,FIRSTGEN_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1333,FIRSTGEN_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1334,FIRSTGEN_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1335,FIRSTGEN_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1336,FIRSTGEN_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1337,FIRSTGEN_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1338,NOT1STGEN_DEATH_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1339,NOT1STGEN_COMP_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1340,NOT1STGEN_COMP_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1341,NOT1STGEN_COMP_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1342,NOT1STGEN_WDRAW_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1343,NOT1STGEN_WDRAW_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1344,NOT1STGEN_WDRAW_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1345,NOT1STGEN_ENRL_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1346,NOT1STGEN_ENRL_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1347,NOT1STGEN_ENRL_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1348,NOT1STGEN_UNKN_ORIG_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1349,NOT1STGEN_UNKN_4YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1350,NOT1STGEN_UNKN_2YR_TRANS_YR8_RT,NSLDS AY2010-11 cohort measured in AY2018-19
+1351,RPY_1YR_RT,
+1352,COMPL_RPY_1YR_RT,
+1353,NONCOM_RPY_1YR_RT,
+1354,LO_INC_RPY_1YR_RT,
+1355,MD_INC_RPY_1YR_RT,
+1356,HI_INC_RPY_1YR_RT,
+1357,DEP_RPY_1YR_RT,
+1358,IND_RPY_1YR_RT,
+1359,PELL_RPY_1YR_RT,
+1360,NOPELL_RPY_1YR_RT,
+1361,FEMALE_RPY_1YR_RT,
+1362,MALE_RPY_1YR_RT,
+1363,FIRSTGEN_RPY_1YR_RT,
+1364,NOTFIRSTGEN_RPY_1YR_RT,
+1365,RPY_3YR_RT,
+1366,COMPL_RPY_3YR_RT,
+1367,NONCOM_RPY_3YR_RT,
+1368,LO_INC_RPY_3YR_RT,
+1369,MD_INC_RPY_3YR_RT,
+1370,HI_INC_RPY_3YR_RT,
+1371,DEP_RPY_3YR_RT,
+1372,IND_RPY_3YR_RT,
+1373,PELL_RPY_3YR_RT,
+1374,NOPELL_RPY_3YR_RT,
+1375,FEMALE_RPY_3YR_RT,
+1376,MALE_RPY_3YR_RT,
+1377,FIRSTGEN_RPY_3YR_RT,
+1378,NOTFIRSTGEN_RPY_3YR_RT,
+1379,RPY_5YR_RT,
+1380,COMPL_RPY_5YR_RT,
+1381,NONCOM_RPY_5YR_RT,
+1382,LO_INC_RPY_5YR_RT,
+1383,MD_INC_RPY_5YR_RT,
+1384,HI_INC_RPY_5YR_RT,
+1385,DEP_RPY_5YR_RT,
+1386,IND_RPY_5YR_RT,
+1387,PELL_RPY_5YR_RT,
+1388,NOPELL_RPY_5YR_RT,
+1389,FEMALE_RPY_5YR_RT,
+1390,MALE_RPY_5YR_RT,
+1391,FIRSTGEN_RPY_5YR_RT,
+1392,NOTFIRSTGEN_RPY_5YR_RT,
+1393,RPY_7YR_RT,
+1394,COMPL_RPY_7YR_RT,
+1395,NONCOM_RPY_7YR_RT,
+1396,LO_INC_RPY_7YR_RT,
+1397,MD_INC_RPY_7YR_RT,
+1398,HI_INC_RPY_7YR_RT,
+1399,DEP_RPY_7YR_RT,
+1400,IND_RPY_7YR_RT,
+1401,PELL_RPY_7YR_RT,
+1402,NOPELL_RPY_7YR_RT,
+1403,FEMALE_RPY_7YR_RT,
+1404,MALE_RPY_7YR_RT,
+1405,FIRSTGEN_RPY_7YR_RT,
+1406,NOTFIRSTGEN_RPY_7YR_RT,
+1407,INC_PCT_LO,
+1408,DEP_STAT_PCT_IND,
+1409,DEP_INC_PCT_LO,
+1410,IND_INC_PCT_LO,
+1411,PAR_ED_PCT_1STGEN,
+1412,INC_PCT_M1,
+1413,INC_PCT_M2,
+1414,INC_PCT_H1,
+1415,INC_PCT_H2,
+1416,DEP_INC_PCT_M1,
+1417,DEP_INC_PCT_M2,
+1418,DEP_INC_PCT_H1,
+1419,DEP_INC_PCT_H2,
+1420,IND_INC_PCT_M1,
+1421,IND_INC_PCT_M2,
+1422,IND_INC_PCT_H1,
+1423,IND_INC_PCT_H2,
+1424,PAR_ED_PCT_MS,
+1425,PAR_ED_PCT_HS,
+1426,PAR_ED_PCT_PS,
+1427,APPL_SCH_PCT_GE2,
+1428,APPL_SCH_PCT_GE3,
+1429,APPL_SCH_PCT_GE4,
+1430,APPL_SCH_PCT_GE5,
+1431,DEP_INC_AVG,
+1432,IND_INC_AVG,
+1433,OVERALL_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1434,LO_INC_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1435,MD_INC_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1436,HI_INC_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1437,DEP_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1438,IND_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1439,FEMALE_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1440,MALE_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1441,PELL_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1442,NOPELL_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1443,LOAN_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1444,NOLOAN_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1445,FIRSTGEN_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1446,NOT1STGEN_YR2_N,NSLDS AY2016-17 cohort measured in AY2018-19
+1447,OVERALL_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1448,LO_INC_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1449,MD_INC_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1450,HI_INC_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1451,DEP_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1452,IND_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1453,FEMALE_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1454,MALE_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1455,PELL_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1456,NOPELL_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1457,LOAN_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1458,NOLOAN_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1459,FIRSTGEN_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1460,NOT1STGEN_YR3_N,NSLDS AY2015-16 cohort measured in AY2018-19
+1461,OVERALL_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1462,LO_INC_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1463,MD_INC_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1464,HI_INC_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1465,DEP_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1466,IND_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1467,FEMALE_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1468,MALE_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1469,PELL_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1470,NOPELL_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1471,LOAN_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1472,NOLOAN_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1473,FIRSTGEN_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1474,NOT1STGEN_YR4_N,NSLDS AY2014-15 cohort measured in AY2018-19
+1475,OVERALL_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1476,LO_INC_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1477,MD_INC_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1478,HI_INC_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1479,DEP_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1480,IND_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1481,FEMALE_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1482,MALE_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1483,PELL_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1484,NOPELL_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1485,LOAN_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1486,NOLOAN_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1487,FIRSTGEN_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1488,NOT1STGEN_YR6_N,NSLDS AY2012-13 cohort measured in AY2018-19
+1489,OVERALL_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1490,LO_INC_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1491,MD_INC_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1492,HI_INC_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1493,DEP_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1494,IND_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1495,FEMALE_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1496,MALE_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1497,PELL_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1498,NOPELL_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1499,LOAN_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1500,NOLOAN_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1501,FIRSTGEN_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1502,NOT1STGEN_YR8_N,NSLDS AY2010-11 cohort measured in AY2018-19
+1503,DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1504,GRAD_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1505,WDRAW_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1506,LO_INC_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1507,MD_INC_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1508,HI_INC_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1509,DEP_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1510,IND_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1511,PELL_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1512,NOPELL_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1513,FEMALE_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1514,MALE_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1515,FIRSTGEN_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1516,NOTFIRSTGEN_DEBT_MDN,"NSLDS FY2018, FY2019 pooled cohorts"
+1517,DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1518,GRAD_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1519,WDRAW_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1520,LO_INC_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1521,MD_INC_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1522,HI_INC_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1523,DEP_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1524,IND_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1525,PELL_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1526,NOPELL_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1527,FEMALE_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1528,MALE_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1529,FIRSTGEN_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1530,NOTFIRSTGEN_DEBT_N,"NSLDS FY2018, FY2019 pooled cohorts"
+1531,GRAD_DEBT_MDN10YR,
+1532,CUML_DEBT_N,
+1533,CUML_DEBT_P90,
+1534,CUML_DEBT_P75,
+1535,CUML_DEBT_P25,
+1536,CUML_DEBT_P10,
+1537,INC_N,
+1538,DEP_INC_N,
+1539,IND_INC_N,
+1540,DEP_STAT_N,
+1541,PAR_ED_N,
+1542,APPL_SCH_N,
+1543,REPAY_DT_MDN,
+1544,SEPAR_DT_MDN,
+1545,REPAY_DT_N,
+1546,SEPAR_DT_N,
+1547,RPY_1YR_N,
+1548,COMPL_RPY_1YR_N,
+1549,NONCOM_RPY_1YR_N,
+1550,LO_INC_RPY_1YR_N,
+1551,MD_INC_RPY_1YR_N,
+1552,HI_INC_RPY_1YR_N,
+1553,DEP_RPY_1YR_N,
+1554,IND_RPY_1YR_N,
+1555,PELL_RPY_1YR_N,
+1556,NOPELL_RPY_1YR_N,
+1557,FEMALE_RPY_1YR_N,
+1558,MALE_RPY_1YR_N,
+1559,FIRSTGEN_RPY_1YR_N,
+1560,NOTFIRSTGEN_RPY_1YR_N,
+1561,RPY_3YR_N,
+1562,COMPL_RPY_3YR_N,
+1563,NONCOM_RPY_3YR_N,
+1564,LO_INC_RPY_3YR_N,
+1565,MD_INC_RPY_3YR_N,
+1566,HI_INC_RPY_3YR_N,
+1567,DEP_RPY_3YR_N,
+1568,IND_RPY_3YR_N,
+1569,PELL_RPY_3YR_N,
+1570,NOPELL_RPY_3YR_N,
+1571,FEMALE_RPY_3YR_N,
+1572,MALE_RPY_3YR_N,
+1573,FIRSTGEN_RPY_3YR_N,
+1574,NOTFIRSTGEN_RPY_3YR_N,
+1575,RPY_5YR_N,
+1576,COMPL_RPY_5YR_N,
+1577,NONCOM_RPY_5YR_N,
+1578,LO_INC_RPY_5YR_N,
+1579,MD_INC_RPY_5YR_N,
+1580,HI_INC_RPY_5YR_N,
+1581,DEP_RPY_5YR_N,
+1582,IND_RPY_5YR_N,
+1583,PELL_RPY_5YR_N,
+1584,NOPELL_RPY_5YR_N,
+1585,FEMALE_RPY_5YR_N,
+1586,MALE_RPY_5YR_N,
+1587,FIRSTGEN_RPY_5YR_N,
+1588,NOTFIRSTGEN_RPY_5YR_N,
+1589,RPY_7YR_N,
+1590,COMPL_RPY_7YR_N,
+1591,NONCOM_RPY_7YR_N,
+1592,LO_INC_RPY_7YR_N,
+1593,MD_INC_RPY_7YR_N,
+1594,HI_INC_RPY_7YR_N,
+1595,DEP_RPY_7YR_N,
+1596,IND_RPY_7YR_N,
+1597,PELL_RPY_7YR_N,
+1598,NOPELL_RPY_7YR_N,
+1599,FEMALE_RPY_7YR_N,
+1600,MALE_RPY_7YR_N,
+1601,FIRSTGEN_RPY_7YR_N,
+1602,NOTFIRSTGEN_RPY_7YR_N,
+1603,COUNT_ED,
+1604,LOAN_EVER,
+1605,PELL_EVER,
+1606,AGE_ENTRY,
+1607,AGE_ENTRY_SQ,
+1608,AGEGE24,
+1609,FEMALE,
+1610,MARRIED,
+1611,DEPENDENT,
+1612,VETERAN,
+1613,FIRST_GEN,
+1614,FAMINC,
+1615,MD_FAMINC,
+1616,FAMINC_IND,
+1617,LNFAMINC,
+1618,LNFAMINC_IND,
+1619,PCT_WHITE,
+1620,PCT_BLACK,
+1621,PCT_ASIAN,
+1622,PCT_HISPANIC,
+1623,PCT_BA,
+1624,PCT_GRAD_PROF,
+1625,PCT_BORN_US,
+1626,MEDIAN_HH_INC,
+1627,POVERTY_RATE,
+1628,UNEMP_RATE,
+1629,LN_MEDIAN_HH_INC,
+1630,FSEND_COUNT,
+1631,FSEND_1,
+1632,FSEND_2,
+1633,FSEND_3,
+1634,FSEND_4,
+1635,FSEND_5,
+1636,COUNT_NWNE_P10,
+1637,COUNT_WNE_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1638,MN_EARN_WNE_P10,
+1639,MD_EARN_WNE_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1640,PCT10_EARN_WNE_P10,
+1641,PCT25_EARN_WNE_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1642,PCT75_EARN_WNE_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1643,PCT90_EARN_WNE_P10,
+1644,SD_EARN_WNE_P10,
+1645,COUNT_WNE_INC1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1646,COUNT_WNE_INC2_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1647,COUNT_WNE_INC3_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1648,COUNT_WNE_INDEP0_INC1_P10,
+1649,COUNT_WNE_INDEP0_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1650,COUNT_WNE_INDEP1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1651,COUNT_WNE_MALE0_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1652,COUNT_WNE_MALE1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019"
+1653,GT_25K_P10,
+1654,MN_EARN_WNE_INC1_P10,
+1655,MN_EARN_WNE_INC2_P10,
+1656,MN_EARN_WNE_INC3_P10,
+1657,MN_EARN_WNE_INDEP0_INC1_P10,
+1658,MN_EARN_WNE_INDEP0_P10,
+1659,MN_EARN_WNE_INDEP1_P10,
+1660,MN_EARN_WNE_MALE0_P10,
+1661,MN_EARN_WNE_MALE1_P10,
+1662,COUNT_NWNE_P6,
+1663,COUNT_WNE_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1664,MN_EARN_WNE_P6,
+1665,MD_EARN_WNE_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1666,PCT10_EARN_WNE_P6,
+1667,PCT25_EARN_WNE_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1668,PCT75_EARN_WNE_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1669,PCT90_EARN_WNE_P6,
+1670,SD_EARN_WNE_P6,
+1671,COUNT_WNE_INC1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1672,COUNT_WNE_INC2_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1673,COUNT_WNE_INC3_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1674,COUNT_WNE_INDEP0_INC1_P6,
+1675,COUNT_WNE_INDEP0_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1676,COUNT_WNE_INDEP1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1677,COUNT_WNE_MALE0_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1678,COUNT_WNE_MALE1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019"
+1679,GT_25K_P6,
+1680,MN_EARN_WNE_INC1_P6,
+1681,MN_EARN_WNE_INC2_P6,
+1682,MN_EARN_WNE_INC3_P6,
+1683,MN_EARN_WNE_INDEP0_INC1_P6,
+1684,MN_EARN_WNE_INDEP0_P6,
+1685,MN_EARN_WNE_INDEP1_P6,
+1686,MN_EARN_WNE_MALE0_P6,
+1687,MN_EARN_WNE_MALE1_P6,
+1688,COUNT_NWNE_P7,
+1689,COUNT_WNE_P7,
+1690,MN_EARN_WNE_P7,
+1691,SD_EARN_WNE_P7,
+1692,GT_25K_P7,
+1693,COUNT_NWNE_P8,
+1694,COUNT_WNE_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+1695,MN_EARN_WNE_P8,
+1696,MD_EARN_WNE_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1697,PCT10_EARN_WNE_P8,
+1698,PCT25_EARN_WNE_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1699,PCT75_EARN_WNE_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+1700,PCT90_EARN_WNE_P8,
+1701,SD_EARN_WNE_P8,
+1702,GT_25K_P8,
+1703,COUNT_NWNE_P9,
+1704,COUNT_WNE_P9,
+1705,MN_EARN_WNE_P9,
+1706,SD_EARN_WNE_P9,
+1707,GT_25K_P9,
+1708,DEBT_MDN_SUPP,"NSLDS FY2018, FY2019 pooled cohorts"
+1709,GRAD_DEBT_MDN_SUPP,"NSLDS FY2018, FY2019 pooled cohorts"
+1710,GRAD_DEBT_MDN10YR_SUPP,
+1711,RPY_3YR_RT_SUPP,
+1712,LO_INC_RPY_3YR_RT_SUPP,
+1713,MD_INC_RPY_3YR_RT_SUPP,
+1714,HI_INC_RPY_3YR_RT_SUPP,
+1715,COMPL_RPY_3YR_RT_SUPP,
+1716,NONCOM_RPY_3YR_RT_SUPP,
+1717,DEP_RPY_3YR_RT_SUPP,
+1718,IND_RPY_3YR_RT_SUPP,
+1719,PELL_RPY_3YR_RT_SUPP,
+1720,NOPELL_RPY_3YR_RT_SUPP,
+1721,FEMALE_RPY_3YR_RT_SUPP,
+1722,MALE_RPY_3YR_RT_SUPP,
+1723,FIRSTGEN_RPY_3YR_RT_SUPP,
+1724,NOTFIRSTGEN_RPY_3YR_RT_SUPP,
+1725,C150_L4_POOLED_SUPP,
+1726,C150_4_POOLED_SUPP,
+1727,C200_L4_POOLED_SUPP,
+1728,C200_4_POOLED_SUPP,
+1729,ALIAS,"AcadYr 2018-19, reported in IPEDS DCY2018-19, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included."
+1730,C100_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1731,D100_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1732,C100_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1733,D100_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1734,TRANS_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1735,DTRANS_4,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1736,TRANS_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1737,DTRANS_L4,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1738,ICLEVEL,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1739,UGDS_MEN,"Fall 2018, reported in IPEDS DCY2018-19"
+1740,UGDS_WOMEN,"Fall 2018, reported in IPEDS DCY2018-19"
+1741,CDR2_DENOM,
+1742,CDR3_DENOM,FSA FY2016 cohort measured in FY2018
+1743,T4APPROVALDATE,
+1744,D150_4_WHITE,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1745,D150_4_BLACK,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1746,D150_4_HISP,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1747,D150_4_ASIAN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1748,D150_4_AIAN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1749,D150_4_NHPI,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1750,D150_4_2MOR,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1751,D150_4_NRA,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1752,D150_4_UNKN,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1753,D150_4_WHITENH,
+1754,D150_4_BLACKNH,
+1755,D150_4_API,
+1756,D150_4_AIANOLD,
+1757,D150_4_HISPOLD,
+1758,D150_L4_WHITE,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1759,D150_L4_BLACK,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1760,D150_L4_HISP,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1761,D150_L4_ASIAN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1762,D150_L4_AIAN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1763,D150_L4_NHPI,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1764,D150_L4_2MOR,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1765,D150_L4_NRA,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1766,D150_L4_UNKN,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1767,D150_L4_WHITENH,
+1768,D150_L4_BLACKNH,
+1769,D150_L4_API,
+1770,D150_L4_AIANOLD,
+1771,D150_L4_HISPOLD,
+1772,D_PCTPELL_PCTFLOAN,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+1773,OPENADMP,"Fall 2018, reported in IPEDS DCY2018-19"
+1774,UGNONDS,"Fall 2018, reported in IPEDS DCY2018-19"
+1775,GRADS,"Fall 2018, reported in IPEDS DCY2018-19"
+1776,ACCREDCODE,
+1777,OMACHT6_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1778,OMAWDP6_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1779,OMACHT8_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1780,OMAWDP8_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1781,OMENRYP8_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1782,OMENRAP8_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1783,OMENRUP8_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1784,OMACHT6_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1785,OMAWDP6_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1786,OMACHT8_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1787,OMAWDP8_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1788,OMENRYP8_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1789,OMENRAP8_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1790,OMENRUP8_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1791,OMACHT6_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1792,OMAWDP6_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1793,OMACHT8_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1794,OMAWDP8_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1795,OMENRYP8_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1796,OMENRAP8_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1797,OMENRUP8_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1798,OMACHT6_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1799,OMAWDP6_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1800,OMACHT8_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1801,OMAWDP8_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1802,OMENRYP8_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1803,OMENRAP8_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1804,OMENRUP8_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1805,RET_FT4_POOLED,
+1806,RET_FTL4_POOLED,
+1807,RET_PT4_POOLED,
+1808,RET_PTL4_POOLED,
+1809,RET_FT_DEN4_POOLED,
+1810,RET_FT_DENL4_POOLED,
+1811,RET_PT_DEN4_POOLED,
+1812,RET_PT_DENL4_POOLED,
+1813,POOLYRSRET_FT,
+1814,POOLYRSRET_PT,
+1815,RET_FT4_POOLED_SUPP,
+1816,RET_FTL4_POOLED_SUPP,
+1817,RET_PT4_POOLED_SUPP,
+1818,RET_PTL4_POOLED_SUPP,
+1819,TRANS_4_POOLED,
+1820,TRANS_L4_POOLED,
+1821,DTRANS_4_POOLED,
+1822,DTRANS_L4_POOLED,
+1823,TRANS_4_POOLED_SUPP,
+1824,TRANS_L4_POOLED_SUPP,
+1825,C100_4_POOLED,
+1826,C100_L4_POOLED,
+1827,D100_4_POOLED,
+1828,D100_L4_POOLED,
+1829,POOLYRS100,
+1830,C100_4_POOLED_SUPP,
+1831,C100_L4_POOLED_SUPP,
+1832,C150_4_PELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1833,D150_4_PELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1834,C150_L4_PELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1835,D150_L4_PELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1836,C150_4_LOANNOPELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1837,D150_4_LOANNOPELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1838,C150_L4_LOANNOPELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1839,D150_L4_LOANNOPELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1840,C150_4_NOLOANNOPELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1841,D150_4_NOLOANNOPELL,"Fall 2012 or AcadYr 2012-13 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1842,C150_L4_NOLOANNOPELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1843,D150_L4_NOLOANNOPELL,"Fall 2015 or AcadYr 2015-16 cohort (differs by institutional calendar), reported in IPEDS DCY2018-19"
+1844,GT_28K_P10,
+1845,GT_28K_P8,
+1846,GT_28K_P6,
+1847,OMACHT6_FTFT_POOLED,
+1848,OMAWDP6_FTFT_POOLED,
+1849,OMACHT8_FTFT_POOLED,
+1850,OMAWDP8_FTFT_POOLED,
+1851,OMENRYP8_FTFT_POOLED,
+1852,OMENRAP8_FTFT_POOLED,
+1853,OMENRUP8_FTFT_POOLED,
+1854,OMACHT6_PTFT_POOLED,
+1855,OMAWDP6_PTFT_POOLED,
+1856,OMACHT8_PTFT_POOLED,
+1857,OMAWDP8_PTFT_POOLED,
+1858,OMENRYP8_PTFT_POOLED,
+1859,OMENRAP8_PTFT_POOLED,
+1860,OMENRUP8_PTFT_POOLED,
+1861,OMACHT6_FTNFT_POOLED,
+1862,OMAWDP6_FTNFT_POOLED,
+1863,OMACHT8_FTNFT_POOLED,
+1864,OMAWDP8_FTNFT_POOLED,
+1865,OMENRYP8_FTNFT_POOLED,
+1866,OMENRAP8_FTNFT_POOLED,
+1867,OMENRUP8_FTNFT_POOLED,
+1868,OMACHT6_PTNFT_POOLED,
+1869,OMAWDP6_PTNFT_POOLED,
+1870,OMACHT8_PTNFT_POOLED,
+1871,OMAWDP8_PTNFT_POOLED,
+1872,OMENRYP8_PTNFT_POOLED,
+1873,OMENRAP8_PTNFT_POOLED,
+1874,OMENRUP8_PTNFT_POOLED,
+1875,POOLYRSOM_FTFT,
+1876,POOLYRSOM_PTFT,
+1877,POOLYRSOM_FTNFT,
+1878,POOLYRSOM_PTNFT,
+1879,OMAWDP6_FTFT_POOLED_SUPP,
+1880,OMAWDP8_FTFT_POOLED_SUPP,
+1881,OMENRYP8_FTFT_POOLED_SUPP,
+1882,OMENRAP8_FTFT_POOLED_SUPP,
+1883,OMENRUP8_FTFT_POOLED_SUPP,
+1884,OMAWDP6_PTFT_POOLED_SUPP,
+1885,OMAWDP8_PTFT_POOLED_SUPP,
+1886,OMENRYP8_PTFT_POOLED_SUPP,
+1887,OMENRAP8_PTFT_POOLED_SUPP,
+1888,OMENRUP8_PTFT_POOLED_SUPP,
+1889,OMAWDP6_FTNFT_POOLED_SUPP,
+1890,OMAWDP8_FTNFT_POOLED_SUPP,
+1891,OMENRYP8_FTNFT_POOLED_SUPP,
+1892,OMENRAP8_FTNFT_POOLED_SUPP,
+1893,OMENRUP8_FTNFT_POOLED_SUPP,
+1894,OMAWDP6_PTNFT_POOLED_SUPP,
+1895,OMAWDP8_PTNFT_POOLED_SUPP,
+1896,OMENRYP8_PTNFT_POOLED_SUPP,
+1897,OMENRAP8_PTNFT_POOLED_SUPP,
+1898,OMENRUP8_PTNFT_POOLED_SUPP,
+1899,SCHTYPE,
+1900,OPEFLAG,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1901,PRGMOFR,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1902,CIPCODE1,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1903,CIPCODE2,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1904,CIPCODE3,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1905,CIPCODE4,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1906,CIPCODE5,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1907,CIPCODE6,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1908,CIPTITLE1,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1909,CIPTITLE2,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1910,CIPTITLE3,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1911,CIPTITLE4,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1912,CIPTITLE5,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1913,CIPTITLE6,"AcadYr 2018-19, reported in IPEDS DCY2018-19. Based on the CIP2010 codes."
+1914,CIPTFBS1,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1915,CIPTFBS2,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1916,CIPTFBS3,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1917,CIPTFBS4,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1918,CIPTFBS5,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1919,CIPTFBS6,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1920,CIPTFBSANNUAL1,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1921,CIPTFBSANNUAL2,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1922,CIPTFBSANNUAL3,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1923,CIPTFBSANNUAL4,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1924,CIPTFBSANNUAL5,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1925,CIPTFBSANNUAL6,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1926,MTHCMP1,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1927,MTHCMP2,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1928,MTHCMP3,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1929,MTHCMP4,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1930,MTHCMP5,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1931,MTHCMP6,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+1932,POOLYRSOM_ALL,
+1933,POOLYRSOM_FIRSTTIME,
+1934,POOLYRSOM_NOTFIRSTTIME,
+1935,POOLYRSOM_FULLTIME,
+1936,POOLYRSOM_PARTTIME,
+1937,OMENRYP_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1938,OMENRAP_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1939,OMAWDP8_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1940,OMENRUP_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1941,OMENRYP_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1942,OMENRAP_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1943,OMAWDP8_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1944,OMENRUP_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1945,OMENRYP_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1946,OMENRAP_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1947,OMAWDP8_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1948,OMENRUP_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1949,OMENRYP_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1950,OMENRAP_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1951,OMAWDP8_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1952,OMENRUP_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1953,OMENRYP_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1954,OMENRAP_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1955,OMAWDP8_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1956,OMENRUP_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+1957,OMENRYP_ALL_POOLED_SUPP,
+1958,OMENRAP_ALL_POOLED_SUPP,
+1959,OMAWDP8_ALL_POOLED_SUPP,
+1960,OMENRUP_ALL_POOLED_SUPP,
+1961,OMENRYP_FIRSTTIME_POOLED_SUPP,
+1962,OMENRAP_FIRSTTIME_POOLED_SUPP,
+1963,OMAWDP8_FIRSTTIME_POOLED_SUPP,
+1964,OMENRUP_FIRSTTIME_POOLED_SUPP,
+1965,OMENRYP_NOTFIRSTTIME_POOLED_SUPP,
+1966,OMENRAP_NOTFIRSTTIME_POOLED_SUPP,
+1967,OMAWDP8_NOTFIRSTTIME_POOLED_SUPP,
+1968,OMENRUP_NOTFIRSTTIME_POOLED_SUPP,
+1969,OMENRYP_FULLTIME_POOLED_SUPP,
+1970,OMENRAP_FULLTIME_POOLED_SUPP,
+1971,OMAWDP8_FULLTIME_POOLED_SUPP,
+1972,OMENRUP_FULLTIME_POOLED_SUPP,
+1973,OMENRYP_PARTTIME_POOLED_SUPP,
+1974,OMENRAP_PARTTIME_POOLED_SUPP,
+1975,OMAWDP8_PARTTIME_POOLED_SUPP,
+1976,OMENRUP_PARTTIME_POOLED_SUPP,
+1977,FTFTPCTPELL,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+1978,FTFTPCTFLOAN,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+1979,UG12MN,"AY2017-18, reported in IPEDS DCY2018-19"
+1980,G12MN,"AY2017-18, reported in IPEDS DCY2018-19"
+1981,SCUGFFN,"AcadYr 2017-18, reported in IPEDS DCY2018-19"
+1982,POOLYRS_FTFTAIDPCT,
+1983,FTFTPCTPELL_POOLED_SUPP,
+1984,FTFTPCTFLOAN_POOLED_SUPP,
+1985,SCUGFFN_POOLED,
+1986,PPLUS_PCT_LOW,"Numerator: FSA AY2017-18; Denominator: AY2017-18, reported in IPEDS DCY2018-19"
+1987,PPLUS_PCT_HIGH,"Numerator: FSA AY2017-18; Denominator: AY2017-18, reported in IPEDS DCY2018-19"
+1988,PPLUS_PCT_LOW_POOLED_SUPP,
+1989,PPLUS_PCT_HIGH_POOLED_SUPP,
+1990,POOLYRS_PLUSPCT,
+1991,PLUS_DEBT_INST_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1992,PLUS_DEBT_INST_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1993,PLUS_DEBT_ALL_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1994,PLUS_DEBT_ALL_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1995,PLUS_DEBT_INST_COMP_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1996,PLUS_DEBT_INST_COMP_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1997,PLUS_DEBT_INST_COMP_MDPAY10,
+1998,PLUS_DEBT_INST_COMP_MD_SUPP,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+1999,PLUS_DEBT_INST_COMP_MDPAY10_SUPP,
+2000,PLUS_DEBT_ALL_COMP_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2001,PLUS_DEBT_ALL_COMP_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2002,PLUS_DEBT_ALL_COMP_MDPAY10,
+2003,PLUS_DEBT_ALL_COMP_MD_SUPP,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2004,PLUS_DEBT_ALL_COMP_MDPAY10_SUPP,
+2005,PLUS_DEBT_INST_NOCOMP_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2006,PLUS_DEBT_INST_NOCOMP_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2007,PLUS_DEBT_ALL_NOCOMP_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2008,PLUS_DEBT_ALL_NOCOMP_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2009,PLUS_DEBT_INST_MALE_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2010,PLUS_DEBT_INST_MALE_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2011,PLUS_DEBT_ALL_MALE_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2012,PLUS_DEBT_ALL_MALE_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2013,PLUS_DEBT_INST_NOMALE_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2014,PLUS_DEBT_INST_NOMALE_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2015,PLUS_DEBT_ALL_NOMALE_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2016,PLUS_DEBT_ALL_NOMALE_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2017,PLUS_DEBT_INST_PELL_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2018,PLUS_DEBT_INST_PELL_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2019,PLUS_DEBT_ALL_PELL_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2020,PLUS_DEBT_ALL_PELL_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2021,PLUS_DEBT_INST_NOPELL_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2022,PLUS_DEBT_INST_NOPELL_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2023,PLUS_DEBT_ALL_NOPELL_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2024,PLUS_DEBT_ALL_NOPELL_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2025,PLUS_DEBT_INST_STAFFTHIS_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2026,PLUS_DEBT_INST_STAFFTHIS_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2027,PLUS_DEBT_ALL_STAFFTHIS_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2028,PLUS_DEBT_ALL_STAFFTHIS_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2029,PLUS_DEBT_INST_NOSTAFFTHIS_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2030,PLUS_DEBT_INST_NOSTAFFTHIS_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2031,PLUS_DEBT_ALL_NOSTAFFTHIS_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2032,PLUS_DEBT_ALL_NOSTAFFTHIS_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2033,PLUS_DEBT_INST_STAFFANY_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2034,PLUS_DEBT_INST_STAFFANY_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2035,PLUS_DEBT_ALL_STAFFANY_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2036,PLUS_DEBT_ALL_STAFFANY_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2037,PLUS_DEBT_INST_NOSTAFFANY_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2038,PLUS_DEBT_INST_NOSTAFFANY_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2039,PLUS_DEBT_ALL_NOSTAFFANY_N,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2040,PLUS_DEBT_ALL_NOSTAFFANY_MD,"NSLDS AY2017-18, AY2018-19 pooled cohorts"
+2041,COUNT_NWNE_3YR,"Treasury AY2014-15, AY2015-16 pooled cohort measured in CY2018, CY2019"
+2042,COUNT_WNE_3YR,"Treasury AY2014-15, AY2015-16 pooled cohort measured in CY2018, CY2019"
+2043,CNTOVER150_3YR,"Treasury AY2014-15, AY2015-16 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2044,DBRR1_FED_UG_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2045,DBRR1_FED_UG_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2046,DBRR1_FED_UG_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2047,DBRR1_FED_UG_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2048,DBRR1_FED_GR_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2049,DBRR1_FED_GR_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2050,DBRR1_FED_GR_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2051,DBRR1_FED_GR_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2052,DBRR1_FED_UGCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2053,DBRR1_FED_UGCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2054,DBRR1_FED_UGCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2055,DBRR1_FED_UGCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2056,DBRR1_FED_UGNOCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2057,DBRR1_FED_UGNOCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2058,DBRR1_FED_UGNOCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2059,DBRR1_FED_UGNOCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2060,DBRR1_FED_UGUNK_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2061,DBRR1_FED_UGUNK_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2062,DBRR1_FED_UGUNK_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2063,DBRR1_FED_UGUNK_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2064,DBRR1_FED_GRCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2065,DBRR1_FED_GRCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2066,DBRR1_FED_GRCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2067,DBRR1_FED_GRCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2068,DBRR1_FED_GRNOCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2069,DBRR1_FED_GRNOCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2070,DBRR1_FED_GRNOCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2071,DBRR1_FED_GRNOCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2072,DBRR4_FED_UG_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2073,DBRR4_FED_UG_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2074,DBRR4_FED_UG_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2075,DBRR4_FED_UG_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2076,DBRR4_FED_GR_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2077,DBRR4_FED_GR_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2078,DBRR4_FED_GR_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2079,DBRR4_FED_GR_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2080,DBRR4_FED_UGCOMP_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2081,DBRR4_FED_UGCOMP_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2082,DBRR4_FED_UGCOMP_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2083,DBRR4_FED_UGCOMP_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2084,DBRR4_FED_UGNOCOMP_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2085,DBRR4_FED_UGNOCOMP_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2086,DBRR4_FED_UGNOCOMP_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2087,DBRR4_FED_UGNOCOMP_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2088,DBRR4_FED_UGUNK_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2089,DBRR4_FED_UGUNK_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2090,DBRR4_FED_UGUNK_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2091,DBRR4_FED_UGUNK_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2092,DBRR5_FED_UG_N,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2093,DBRR5_FED_UG_NUM,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2094,DBRR5_FED_UG_DEN,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2095,DBRR5_FED_UG_RT,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2096,DBRR5_FED_GR_N,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2097,DBRR5_FED_GR_NUM,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2098,DBRR5_FED_GR_DEN,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2099,DBRR5_FED_GR_RT,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2100,DBRR10_FED_UG_N,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2101,DBRR10_FED_UG_NUM,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2102,DBRR10_FED_UG_DEN,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2103,DBRR10_FED_UG_RT,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2104,DBRR10_FED_GR_N,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2105,DBRR10_FED_GR_NUM,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2106,DBRR10_FED_GR_DEN,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2107,DBRR10_FED_GR_RT,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2108,DBRR20_FED_UG_N,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2109,DBRR20_FED_UG_NUM,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2110,DBRR20_FED_UG_DEN,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2111,DBRR20_FED_UG_RT,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2112,DBRR20_FED_GR_N,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2113,DBRR20_FED_GR_NUM,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2114,DBRR20_FED_GR_DEN,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2115,DBRR20_FED_GR_RT,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2116,DBRR1_PP_UG_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2117,DBRR1_PP_UG_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2118,DBRR1_PP_UG_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2119,DBRR1_PP_UG_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2120,DBRR1_PP_UGCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2121,DBRR1_PP_UGCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2122,DBRR1_PP_UGCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2123,DBRR1_PP_UGCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2124,DBRR1_PP_UGNOCOMP_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2125,DBRR1_PP_UGNOCOMP_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2126,DBRR1_PP_UGNOCOMP_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2127,DBRR1_PP_UGNOCOMP_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2128,DBRR1_PP_UGUNK_N,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2129,DBRR1_PP_UGUNK_NUM,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2130,DBRR1_PP_UGUNK_DEN,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2131,DBRR1_PP_UGUNK_RT,"NSLDS AY2016-17, AY2017-18 pooled cohorts measured in 2017-2018, 2018-2019"
+2132,DBRR4_PP_UG_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2133,DBRR4_PP_UG_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2134,DBRR4_PP_UG_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2135,DBRR4_PP_UG_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2136,DBRR4_PP_UGCOMP_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2137,DBRR4_PP_UGCOMP_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2138,DBRR4_PP_UGCOMP_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2139,DBRR4_PP_UGCOMP_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2140,DBRR4_PP_UGNOCOMP_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2141,DBRR4_PP_UGNOCOMP_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2142,DBRR4_PP_UGNOCOMP_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2143,DBRR4_PP_UGNOCOMP_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2144,DBRR4_PP_UGUNK_N,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2145,DBRR4_PP_UGUNK_NUM,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2146,DBRR4_PP_UGUNK_DEN,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2147,DBRR4_PP_UGUNK_RT,"NSLDS AY2013-14, AY2014-15 pooled cohorts measured in 2017-2018, 2018-2019"
+2148,DBRR5_PP_UG_N,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2149,DBRR5_PP_UG_NUM,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2150,DBRR5_PP_UG_DEN,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2151,DBRR5_PP_UG_RT,"NSLDS AY2012-13, AY2013-14 pooled cohorts measured in 2017-2018, 2018-2019"
+2152,DBRR10_PP_UG_N,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2153,DBRR10_PP_UG_NUM,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2154,DBRR10_PP_UG_DEN,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2155,DBRR10_PP_UG_RT,"NSLDS AY2007-08, AY2008-09 pooled cohorts measured in 2017-2018, 2018-2019"
+2156,DBRR20_PP_UG_N,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2157,DBRR20_PP_UG_NUM,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2158,DBRR20_PP_UG_DEN,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2159,DBRR20_PP_UG_RT,"NSLDS AY1997-98, AY1998-99 pooled cohorts measured in 2017-2018, 2018-2019"
+2160,BBRR1_FED_UG_N,
+2161,BBRR1_FED_UG_DFLT,
+2162,BBRR1_FED_UG_DLNQ,
+2163,BBRR1_FED_UG_FBR,
+2164,BBRR1_FED_UG_DFR,
+2165,BBRR1_FED_UG_NOPROG,
+2166,BBRR1_FED_UG_MAKEPROG,
+2167,BBRR1_FED_UG_PAIDINFULL,
+2168,BBRR1_FED_UG_DISCHARGE,
+2169,BBRR1_FED_UGCOMP_N,
+2170,BBRR1_FED_UGCOMP_DFLT,
+2171,BBRR1_FED_UGCOMP_DLNQ,
+2172,BBRR1_FED_UGCOMP_FBR,
+2173,BBRR1_FED_UGCOMP_DFR,
+2174,BBRR1_FED_UGCOMP_NOPROG,
+2175,BBRR1_FED_UGCOMP_MAKEPROG,
+2176,BBRR1_FED_UGCOMP_PAIDINFULL,
+2177,BBRR1_FED_UGCOMP_DISCHARGE,
+2178,BBRR1_FED_UGNOCOMP_N,
+2179,BBRR1_FED_UGNOCOMP_DFLT,
+2180,BBRR1_FED_UGNOCOMP_DLNQ,
+2181,BBRR1_FED_UGNOCOMP_FBR,
+2182,BBRR1_FED_UGNOCOMP_DFR,
+2183,BBRR1_FED_UGNOCOMP_NOPROG,
+2184,BBRR1_FED_UGNOCOMP_MAKEPROG,
+2185,BBRR1_FED_UGNOCOMP_PAIDINFULL,
+2186,BBRR1_FED_UGNOCOMP_DISCHARGE,
+2187,BBRR1_FED_UGUNK_N,
+2188,BBRR1_FED_UGUNK_DFLT,
+2189,BBRR1_FED_UGUNK_DLNQ,
+2190,BBRR1_FED_UGUNK_FBR,
+2191,BBRR1_FED_UGUNK_DFR,
+2192,BBRR1_FED_UGUNK_NOPROG,
+2193,BBRR1_FED_UGUNK_MAKEPROG,
+2194,BBRR1_FED_UGUNK_PAIDINFULL,
+2195,BBRR1_FED_UGUNK_DISCHARGE,
+2196,BBRR1_FED_GR_N,
+2197,BBRR1_FED_GR_DFLT,
+2198,BBRR1_FED_GR_DLNQ,
+2199,BBRR1_FED_GR_FBR,
+2200,BBRR1_FED_GR_DFR,
+2201,BBRR1_FED_GR_NOPROG,
+2202,BBRR1_FED_GR_MAKEPROG,
+2203,BBRR1_FED_GR_PAIDINFULL,
+2204,BBRR1_FED_GR_DISCHARGE,
+2205,BBRR1_FED_GRCOMP_N,
+2206,BBRR1_FED_GRCOMP_DFLT,
+2207,BBRR1_FED_GRCOMP_DLNQ,
+2208,BBRR1_FED_GRCOMP_FBR,
+2209,BBRR1_FED_GRCOMP_DFR,
+2210,BBRR1_FED_GRCOMP_NOPROG,
+2211,BBRR1_FED_GRCOMP_MAKEPROG,
+2212,BBRR1_FED_GRCOMP_PAIDINFULL,
+2213,BBRR1_FED_GRCOMP_DISCHARGE,
+2214,BBRR1_FED_GRNOCOMP_N,
+2215,BBRR1_FED_GRNOCOMP_DFLT,
+2216,BBRR1_FED_GRNOCOMP_DLNQ,
+2217,BBRR1_FED_GRNOCOMP_FBR,
+2218,BBRR1_FED_GRNOCOMP_DFR,
+2219,BBRR1_FED_GRNOCOMP_NOPROG,
+2220,BBRR1_FED_GRNOCOMP_MAKEPROG,
+2221,BBRR1_FED_GRNOCOMP_PAIDINFULL,
+2222,BBRR1_FED_GRNOCOMP_DISCHARGE,
+2223,BBRR1_PP_UG_N,
+2224,BBRR1_PP_UG_DFLT,
+2225,BBRR1_PP_UG_DLNQ,
+2226,BBRR1_PP_UG_FBR,
+2227,BBRR1_PP_UG_DFR,
+2228,BBRR1_PP_UG_NOPROG,
+2229,BBRR1_PP_UG_MAKEPROG,
+2230,BBRR1_PP_UG_PAIDINFULL,
+2231,BBRR1_PP_UG_DISCHARGE,
+2232,BBRR1_PP_UGCOMP_N,
+2233,BBRR1_PP_UGCOMP_DFLT,
+2234,BBRR1_PP_UGCOMP_DLNQ,
+2235,BBRR1_PP_UGCOMP_FBR,
+2236,BBRR1_PP_UGCOMP_DFR,
+2237,BBRR1_PP_UGCOMP_NOPROG,
+2238,BBRR1_PP_UGCOMP_MAKEPROG,
+2239,BBRR1_PP_UGCOMP_PAIDINFULL,
+2240,BBRR1_PP_UGCOMP_DISCHARGE,
+2241,BBRR1_PP_UGNOCOMP_N,
+2242,BBRR1_PP_UGNOCOMP_DFLT,
+2243,BBRR1_PP_UGNOCOMP_DLNQ,
+2244,BBRR1_PP_UGNOCOMP_FBR,
+2245,BBRR1_PP_UGNOCOMP_DFR,
+2246,BBRR1_PP_UGNOCOMP_NOPROG,
+2247,BBRR1_PP_UGNOCOMP_MAKEPROG,
+2248,BBRR1_PP_UGNOCOMP_PAIDINFULL,
+2249,BBRR1_PP_UGNOCOMP_DISCHARGE,
+2250,BBRR1_PP_UGUNK_N,
+2251,BBRR1_PP_UGUNK_DFLT,
+2252,BBRR1_PP_UGUNK_DLNQ,
+2253,BBRR1_PP_UGUNK_FBR,
+2254,BBRR1_PP_UGUNK_DFR,
+2255,BBRR1_PP_UGUNK_NOPROG,
+2256,BBRR1_PP_UGUNK_MAKEPROG,
+2257,BBRR1_PP_UGUNK_PAIDINFULL,
+2258,BBRR1_PP_UGUNK_DISCHARGE,
+2259,BBRR2_FED_UG_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2260,BBRR2_FED_UG_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2261,BBRR2_FED_UG_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2262,BBRR2_FED_UG_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2263,BBRR2_FED_UG_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2264,BBRR2_FED_UG_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2265,BBRR2_FED_UG_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2266,BBRR2_FED_UG_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2267,BBRR2_FED_UG_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2268,BBRR2_FED_UGCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2269,BBRR2_FED_UGCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2270,BBRR2_FED_UGCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2271,BBRR2_FED_UGCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2272,BBRR2_FED_UGCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2273,BBRR2_FED_UGCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2274,BBRR2_FED_UGCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2275,BBRR2_FED_UGCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2276,BBRR2_FED_UGCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2277,BBRR2_FED_UGNOCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2278,BBRR2_FED_UGNOCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2279,BBRR2_FED_UGNOCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2280,BBRR2_FED_UGNOCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2281,BBRR2_FED_UGNOCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2282,BBRR2_FED_UGNOCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2283,BBRR2_FED_UGNOCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2284,BBRR2_FED_UGNOCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2285,BBRR2_FED_UGNOCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2286,BBRR2_FED_UGUNK_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2287,BBRR2_FED_UGUNK_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2288,BBRR2_FED_UGUNK_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2289,BBRR2_FED_UGUNK_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2290,BBRR2_FED_UGUNK_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2291,BBRR2_FED_UGUNK_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2292,BBRR2_FED_UGUNK_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2293,BBRR2_FED_UGUNK_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2294,BBRR2_FED_UGUNK_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2295,BBRR2_FED_GR_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2296,BBRR2_FED_GR_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2297,BBRR2_FED_GR_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2298,BBRR2_FED_GR_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2299,BBRR2_FED_GR_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2300,BBRR2_FED_GR_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2301,BBRR2_FED_GR_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2302,BBRR2_FED_GR_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2303,BBRR2_FED_GR_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2304,BBRR2_FED_GRCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2305,BBRR2_FED_GRCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2306,BBRR2_FED_GRCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2307,BBRR2_FED_GRCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2308,BBRR2_FED_GRCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2309,BBRR2_FED_GRCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2310,BBRR2_FED_GRCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2311,BBRR2_FED_GRCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2312,BBRR2_FED_GRCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2313,BBRR2_FED_GRNOCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2314,BBRR2_FED_GRNOCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2315,BBRR2_FED_GRNOCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2316,BBRR2_FED_GRNOCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2317,BBRR2_FED_GRNOCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2318,BBRR2_FED_GRNOCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2319,BBRR2_FED_GRNOCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2320,BBRR2_FED_GRNOCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2321,BBRR2_FED_GRNOCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2322,BBRR2_PP_UG_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2323,BBRR2_PP_UG_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2324,BBRR2_PP_UG_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2325,BBRR2_PP_UG_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2326,BBRR2_PP_UG_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2327,BBRR2_PP_UG_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2328,BBRR2_PP_UG_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2329,BBRR2_PP_UG_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2330,BBRR2_PP_UG_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2331,BBRR2_PP_UGCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2332,BBRR2_PP_UGCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2333,BBRR2_PP_UGCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2334,BBRR2_PP_UGCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2335,BBRR2_PP_UGCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2336,BBRR2_PP_UGCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2337,BBRR2_PP_UGCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2338,BBRR2_PP_UGCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2339,BBRR2_PP_UGCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2340,BBRR2_PP_UGNOCOMP_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2341,BBRR2_PP_UGNOCOMP_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2342,BBRR2_PP_UGNOCOMP_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2343,BBRR2_PP_UGNOCOMP_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2344,BBRR2_PP_UGNOCOMP_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2345,BBRR2_PP_UGNOCOMP_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2346,BBRR2_PP_UGNOCOMP_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2347,BBRR2_PP_UGNOCOMP_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2348,BBRR2_PP_UGNOCOMP_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2349,BBRR2_PP_UGUNK_N,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2350,BBRR2_PP_UGUNK_DFLT,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2351,BBRR2_PP_UGUNK_DLNQ,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2352,BBRR2_PP_UGUNK_FBR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2353,BBRR2_PP_UGUNK_DFR,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2354,BBRR2_PP_UGUNK_NOPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2355,BBRR2_PP_UGUNK_MAKEPROG,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2356,BBRR2_PP_UGUNK_PAIDINFULL,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2357,BBRR2_PP_UGUNK_DISCHARGE,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2358,BBRR2_FED_UG_N_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2359,BBRR2_FED_UG_DFLT_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2360,BBRR2_FED_UG_DLNQ_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2361,BBRR2_FED_UG_FBR_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2362,BBRR2_FED_UG_DFR_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2363,BBRR2_FED_UG_NOPROG_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2364,BBRR2_FED_UG_MAKEPROG_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2365,BBRR2_FED_UG_PAIDINFULL_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2366,BBRR2_FED_UG_DISCHARGE_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2367,BBRR2_FED_UGCOMP_N_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2368,BBRR2_FED_UGCOMP_DFLT_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2369,BBRR2_FED_UGCOMP_DLNQ_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2370,BBRR2_FED_UGCOMP_FBR_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2371,BBRR2_FED_UGCOMP_DFR_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2372,BBRR2_FED_UGCOMP_NOPROG_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2373,BBRR2_FED_UGCOMP_MAKEPROG_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2374,BBRR2_FED_UGCOMP_PAIDINFULL_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2375,BBRR2_FED_UGCOMP_DISCHARGE_SUPP,"NSLDS AY2015-16, AY2016-17 pooled cohorts measured in 2017-2018, 2018-2019"
+2376,LPSTAFFORD_CNT,"NSLDS, all cohorts, measured on June 30, 2020"
+2377,LPSTAFFORD_AMT,"NSLDS, all cohorts, measured on June 30, 2020"
+2378,LPPPLUS_CNT,"NSLDS, all cohorts, measured on June 30, 2020"
+2379,LPPPLUS_AMT,"NSLDS, all cohorts, measured on June 30, 2020"
+2380,LPGPLUS_CNT,"NSLDS, all cohorts, measured on June 30, 2020"
+2381,LPGPLUS_AMT,"NSLDS, all cohorts, measured on June 30, 2020"
+2382,FEDSCHCD,
+2383,BOOKSUPPLY,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2384,ROOMBOARD_ON,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2385,OTHEREXPENSE_ON,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2386,ROOMBOARD_OFF,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2387,OTHEREXPENSE_OFF,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2388,OTHEREXPENSE_FAM,"AcadYr 2018-19, reported in IPEDS DCY2018-19"
+2389,ENDOWBEGIN,"FY2018, reported in IPEDS DCY2018-19"
+2390,ENDOWEND,"FY2018, reported in IPEDS DCY2018-19"
+2391,DOLPROVIDER,
+2392,ADMCON7,"Fall 2018, reported in IPEDS DCY2018-19"
+2393,MDCOMP_PD,
+2394,MDCOST_PD,
+2395,MDEARN_PD,
+2396,MDCOMP_ALL,
+2397,MDCOST_ALL,
+2398,MDEARN_ALL,
+2399,D150_L4_PELL_POOLED,
+2400,C150_L4_PELL_POOLED,
+2401,D150_4_PELL_POOLED,
+2402,C150_4_PELL_POOLED,
+2403,C150_L4_PELL_POOLED_SUPP,
+2404,C150_4_PELL_POOLED_SUPP,
+2405,POOLYRS150_PELL,
+2406,OMENRYP_PELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2407,OMENRAP_PELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2408,OMAWDP8_PELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2409,OMENRUP_PELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2410,OMENRYP_PELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2411,OMENRAP_PELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2412,OMAWDP8_PELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2413,OMENRUP_PELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2414,OMENRYP_PELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2415,OMENRAP_PELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2416,OMAWDP8_PELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2417,OMENRUP_PELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2418,OMENRYP_PELL_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2419,OMENRAP_PELL_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2420,OMAWDP8_PELL_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2421,OMENRUP_PELL_FULLTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2422,OMENRYP_PELL_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2423,OMENRAP_PELL_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2424,OMAWDP8_PELL_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2425,OMENRUP_PELL_PARTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2426,OMACHT8_PELL_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2427,OMAWDP8_PELL_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2428,OMENRYP8_PELL_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2429,OMENRAP8_PELL_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2430,OMENRUP8_PELL_FTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2431,OMACHT8_PELL_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2432,OMAWDP8_PELL_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2433,OMENRYP8_PELL_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2434,OMENRAP8_PELL_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2435,OMENRUP8_PELL_PTFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2436,OMACHT8_PELL_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2437,OMAWDP8_PELL_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2438,OMENRYP8_PELL_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2439,OMENRAP8_PELL_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2440,OMENRUP8_PELL_FTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2441,OMACHT8_PELL_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2442,OMAWDP8_PELL_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2443,OMENRYP8_PELL_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2444,OMENRAP8_PELL_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2445,OMENRUP8_PELL_PTNFT,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+2446,OMACHT8_PELL_FTFT_POOLED,
+2447,OMACHT8_PELL_PTFT_POOLED,
+2448,OMACHT8_PELL_FTNFT_POOLED,
+2449,OMACHT8_PELL_PTNFT_POOLED,
+2450,OMAWDP8_PELL_FTFT_POOLED,
+2451,OMENRYP8_PELL_FTFT_POOLED,
+2452,OMENRAP8_PELL_FTFT_POOLED,
+2453,OMENRUP8_PELL_FTFT_POOLED,
+2454,OMAWDP8_PELL_PTFT_POOLED,
+2455,OMENRYP8_PELL_PTFT_POOLED,
+2456,OMENRAP8_PELL_PTFT_POOLED,
+2457,OMENRUP8_PELL_PTFT_POOLED,
+2458,OMAWDP8_PELL_FTNFT_POOLED,
+2459,OMENRYP8_PELL_FTNFT_POOLED,
+2460,OMENRAP8_PELL_FTNFT_POOLED,
+2461,OMENRUP8_PELL_FTNFT_POOLED,
+2462,OMAWDP8_PELL_PTNFT_POOLED,
+2463,OMENRYP8_PELL_PTNFT_POOLED,
+2464,OMENRAP8_PELL_PTNFT_POOLED,
+2465,OMENRUP8_PELL_PTNFT_POOLED,
+2466,OMENRYP_PELL_ALL_POOLED,
+2467,OMENRAP_PELL_ALL_POOLED,
+2468,OMAWDP8_PELL_ALL_POOLED,
+2469,OMENRUP_PELL_ALL_POOLED,
+2470,OMENRYP_PELL_FTT_POOLED,
+2471,OMENRAP_PELL_FTT_POOLED,
+2472,OMAWDP8_PELL_FTT_POOLED,
+2473,OMENRUP_PELL_FTT_POOLED,
+2474,OMENRYP_PELL_NFT_POOLED,
+2475,OMENRAP_PELL_NFT_POOLED,
+2476,OMAWDP8_PELL_NFT_POOLED,
+2477,OMENRUP_PELL_NFT_POOLED,
+2478,OMENRYP_PELL_FT_POOLED,
+2479,OMENRAP_PELL_FT_POOLED,
+2480,OMAWDP8_PELL_FT_POOLED,
+2481,OMENRUP_PELL_FT_POOLED,
+2482,OMENRYP_PELL_PT_POOLED,
+2483,OMENRAP_PELL_PT_POOLED,
+2484,OMAWDP8_PELL_PT_POOLED,
+2485,OMENRUP_PELL_PT_POOLED,
+2486,POOLYRSOM_PELL_FTFT,
+2487,POOLYRSOM_PELL_PTFT,
+2488,POOLYRSOM_PELL_FTNFT,
+2489,POOLYRSOM_PELL_PTNFT,
+2490,POOLYRSOM_PELL_ALL,
+2491,POOLYRSOM_PELL_FIRSTTIME,
+2492,POOLYRSOM_PELL_NOTFIRSTTIME,
+2493,POOLYRSOM_PELL_FULLTIME,
+2494,POOLYRSOM_PELL_PARTTIME,
+2495,OMAWDP8_PELL_FTFT_POOLED_SUPP,
+2496,OMENRYP8_PELL_FTFT_POOLED_SUPP,
+2497,OMENRAP8_PELL_FTFT_POOLED_SUPP,
+2498,OMENRUP8_PELL_FTFT_POOLED_SUPP,
+2499,OMAWDP8_PELL_PTFT_POOLED_SUPP,
+2500,OMENRYP8_PELL_PTFT_POOLED_SUPP,
+2501,OMENRAP8_PELL_PTFT_POOLED_SUPP,
+2502,OMENRUP8_PELL_PTFT_POOLED_SUPP,
+2503,OMAWDP8_PELL_FTNFT_POOLED_SUPP,
+2504,OMENRYP8_PELL_FTNFT_POOLED_SUPP,
+2505,OMENRAP8_PELL_FTNFT_POOLED_SUPP,
+2506,OMENRUP8_PELL_FTNFT_POOLED_SUPP,
+2507,OMAWDP8_PELL_PTNFT_POOLED_SUPP,
+2508,OMENRYP8_PELL_PTNFT_POOLED_SUPP,
+2509,OMENRAP8_PELL_PTNFT_POOLED_SUPP,
+2510,OMENRUP8_PELL_PTNFT_POOLED_SUPP,
+2511,OMENRYP_PELL_ALL_POOLED_SUPP,
+2512,OMENRAP_PELL_ALL_POOLED_SUPP,
+2513,OMAWDP8_PELL_ALL_POOLED_SUPP,
+2514,OMENRUP_PELL_ALL_POOLED_SUPP,
+2515,OMENRYP_PELL_FTT_POOLED_SUPP,
+2516,OMENRAP_PELL_FTT_POOLED_SUPP,
+2517,OMAWDP8_PELL_FTT_POOLED_SUPP,
+2518,OMENRUP_PELL_FTT_POOLED_SUPP,
+2519,OMENRYP_PELL_NFT_POOLED_SUPP,
+2520,OMENRAP_PELL_NFT_POOLED_SUPP,
+2521,OMAWDP8_PELL_NFT_POOLED_SUPP,
+2522,OMENRUP_PELL_NFT_POOLED_SUPP,
+2523,OMENRYP_PELL_FT_POOLED_SUPP,
+2524,OMENRAP_PELL_FT_POOLED_SUPP,
+2525,OMAWDP8_PELL_FT_POOLED_SUPP,
+2526,OMENRUP_PELL_FT_POOLED_SUPP,
+2527,OMENRYP_PELL_PT_POOLED_SUPP,
+2528,OMENRAP_PELL_PT_POOLED_SUPP,
+2529,OMAWDP8_PELL_PT_POOLED_SUPP,
+2530,OMENRUP_PELL_PT_POOLED_SUPP,
+2531,BBRR1_FED_IND_N,
+2532,BBRR1_FED_IND_DFLT,
+2533,BBRR1_FED_IND_DLNQ,
+2534,BBRR1_FED_IND_FBR,
+2535,BBRR1_FED_IND_DFR,
+2536,BBRR1_FED_IND_NOPROG,
+2537,BBRR1_FED_IND_MAKEPROG,
+2538,BBRR1_FED_IND_PAIDINFULL,
+2539,BBRR1_FED_IND_DISCHARGE,
+2540,BBRR1_FED_DEP_N,
+2541,BBRR1_FED_DEP_DFLT,
+2542,BBRR1_FED_DEP_DLNQ,
+2543,BBRR1_FED_DEP_FBR,
+2544,BBRR1_FED_DEP_DFR,
+2545,BBRR1_FED_DEP_NOPROG,
+2546,BBRR1_FED_DEP_MAKEPROG,
+2547,BBRR1_FED_DEP_PAIDINFULL,
+2548,BBRR1_FED_DEP_DISCHARGE,
+2549,BBRR1_FED_PELL_N,
+2550,BBRR1_FED_PELL_DFLT,
+2551,BBRR1_FED_PELL_DLNQ,
+2552,BBRR1_FED_PELL_FBR,
+2553,BBRR1_FED_PELL_DFR,
+2554,BBRR1_FED_PELL_NOPROG,
+2555,BBRR1_FED_PELL_MAKEPROG,
+2556,BBRR1_FED_PELL_PAIDINFULL,
+2557,BBRR1_FED_PELL_DISCHARGE,
+2558,BBRR1_FED_NOPELL_N,
+2559,BBRR1_FED_NOPELL_DFLT,
+2560,BBRR1_FED_NOPELL_DLNQ,
+2561,BBRR1_FED_NOPELL_FBR,
+2562,BBRR1_FED_NOPELL_DFR,
+2563,BBRR1_FED_NOPELL_NOPROG,
+2564,BBRR1_FED_NOPELL_MAKEPROG,
+2565,BBRR1_FED_NOPELL_PAIDINFULL,
+2566,BBRR1_FED_NOPELL_DISCHARGE,
+2567,BBRR1_FED_MALE_N,
+2568,BBRR1_FED_MALE_DFLT,
+2569,BBRR1_FED_MALE_DLNQ,
+2570,BBRR1_FED_MALE_FBR,
+2571,BBRR1_FED_MALE_DFR,
+2572,BBRR1_FED_MALE_NOPROG,
+2573,BBRR1_FED_MALE_MAKEPROG,
+2574,BBRR1_FED_MALE_PAIDINFULL,
+2575,BBRR1_FED_MALE_DISCHARGE,
+2576,BBRR1_FED_NOMALE_N,
+2577,BBRR1_FED_NOMALE_DFLT,
+2578,BBRR1_FED_NOMALE_DLNQ,
+2579,BBRR1_FED_NOMALE_FBR,
+2580,BBRR1_FED_NOMALE_DFR,
+2581,BBRR1_FED_NOMALE_NOPROG,
+2582,BBRR1_FED_NOMALE_MAKEPROG,
+2583,BBRR1_FED_NOMALE_PAIDINFULL,
+2584,BBRR1_FED_NOMALE_DISCHARGE,
+2585,BBRR1_PP_IND_N,
+2586,BBRR1_PP_IND_DFLT,
+2587,BBRR1_PP_IND_DLNQ,
+2588,BBRR1_PP_IND_FBR,
+2589,BBRR1_PP_IND_DFR,
+2590,BBRR1_PP_IND_NOPROG,
+2591,BBRR1_PP_IND_MAKEPROG,
+2592,BBRR1_PP_IND_PAIDINFULL,
+2593,BBRR1_PP_IND_DISCHARGE,
+2594,BBRR1_PP_DEP_N,
+2595,BBRR1_PP_DEP_DFLT,
+2596,BBRR1_PP_DEP_DLNQ,
+2597,BBRR1_PP_DEP_FBR,
+2598,BBRR1_PP_DEP_DFR,
+2599,BBRR1_PP_DEP_NOPROG,
+2600,BBRR1_PP_DEP_MAKEPROG,
+2601,BBRR1_PP_DEP_PAIDINFULL,
+2602,BBRR1_PP_DEP_DISCHARGE,
+2603,BBRR1_PP_PELL_N,
+2604,BBRR1_PP_PELL_DFLT,
+2605,BBRR1_PP_PELL_DLNQ,
+2606,BBRR1_PP_PELL_FBR,
+2607,BBRR1_PP_PELL_DFR,
+2608,BBRR1_PP_PELL_NOPROG,
+2609,BBRR1_PP_PELL_MAKEPROG,
+2610,BBRR1_PP_PELL_PAIDINFULL,
+2611,BBRR1_PP_PELL_DISCHARGE,
+2612,BBRR1_PP_NOPELL_N,
+2613,BBRR1_PP_NOPELL_DFLT,
+2614,BBRR1_PP_NOPELL_DLNQ,
+2615,BBRR1_PP_NOPELL_FBR,
+2616,BBRR1_PP_NOPELL_DFR,
+2617,BBRR1_PP_NOPELL_NOPROG,
+2618,BBRR1_PP_NOPELL_MAKEPROG,
+2619,BBRR1_PP_NOPELL_PAIDINFULL,
+2620,BBRR1_PP_NOPELL_DISCHARGE,
+2621,BBRR1_PP_MALE_N,
+2622,BBRR1_PP_MALE_DFLT,
+2623,BBRR1_PP_MALE_DLNQ,
+2624,BBRR1_PP_MALE_FBR,
+2625,BBRR1_PP_MALE_DFR,
+2626,BBRR1_PP_MALE_NOPROG,
+2627,BBRR1_PP_MALE_MAKEPROG,
+2628,BBRR1_PP_MALE_PAIDINFULL,
+2629,BBRR1_PP_MALE_DISCHARGE,
+2630,BBRR1_PP_NOMALE_N,
+2631,BBRR1_PP_NOMALE_DFLT,
+2632,BBRR1_PP_NOMALE_DLNQ,
+2633,BBRR1_PP_NOMALE_FBR,
+2634,BBRR1_PP_NOMALE_DFR,
+2635,BBRR1_PP_NOMALE_NOPROG,
+2636,BBRR1_PP_NOMALE_MAKEPROG,
+2637,BBRR1_PP_NOMALE_PAIDINFULL,
+2638,BBRR1_PP_NOMALE_DISCHARGE,
+2639,BBRR2_FED_IND_N,
+2640,BBRR2_FED_IND_DFLT,
+2641,BBRR2_FED_IND_DLNQ,
+2642,BBRR2_FED_IND_FBR,
+2643,BBRR2_FED_IND_DFR,
+2644,BBRR2_FED_IND_NOPROG,
+2645,BBRR2_FED_IND_MAKEPROG,
+2646,BBRR2_FED_IND_PAIDINFULL,
+2647,BBRR2_FED_IND_DISCHARGE,
+2648,BBRR2_FED_DEP_N,
+2649,BBRR2_FED_DEP_DFLT,
+2650,BBRR2_FED_DEP_DLNQ,
+2651,BBRR2_FED_DEP_FBR,
+2652,BBRR2_FED_DEP_DFR,
+2653,BBRR2_FED_DEP_NOPROG,
+2654,BBRR2_FED_DEP_MAKEPROG,
+2655,BBRR2_FED_DEP_PAIDINFULL,
+2656,BBRR2_FED_DEP_DISCHARGE,
+2657,BBRR2_FED_PELL_N,
+2658,BBRR2_FED_PELL_DFLT,
+2659,BBRR2_FED_PELL_DLNQ,
+2660,BBRR2_FED_PELL_FBR,
+2661,BBRR2_FED_PELL_DFR,
+2662,BBRR2_FED_PELL_NOPROG,
+2663,BBRR2_FED_PELL_MAKEPROG,
+2664,BBRR2_FED_PELL_PAIDINFULL,
+2665,BBRR2_FED_PELL_DISCHARGE,
+2666,BBRR2_FED_NOPELL_N,
+2667,BBRR2_FED_NOPELL_DFLT,
+2668,BBRR2_FED_NOPELL_DLNQ,
+2669,BBRR2_FED_NOPELL_FBR,
+2670,BBRR2_FED_NOPELL_DFR,
+2671,BBRR2_FED_NOPELL_NOPROG,
+2672,BBRR2_FED_NOPELL_MAKEPROG,
+2673,BBRR2_FED_NOPELL_PAIDINFULL,
+2674,BBRR2_FED_NOPELL_DISCHARGE,
+2675,BBRR2_FED_MALE_N,
+2676,BBRR2_FED_MALE_DFLT,
+2677,BBRR2_FED_MALE_DLNQ,
+2678,BBRR2_FED_MALE_FBR,
+2679,BBRR2_FED_MALE_DFR,
+2680,BBRR2_FED_MALE_NOPROG,
+2681,BBRR2_FED_MALE_MAKEPROG,
+2682,BBRR2_FED_MALE_PAIDINFULL,
+2683,BBRR2_FED_MALE_DISCHARGE,
+2684,BBRR2_FED_NOMALE_N,
+2685,BBRR2_FED_NOMALE_DFLT,
+2686,BBRR2_FED_NOMALE_DLNQ,
+2687,BBRR2_FED_NOMALE_FBR,
+2688,BBRR2_FED_NOMALE_DFR,
+2689,BBRR2_FED_NOMALE_NOPROG,
+2690,BBRR2_FED_NOMALE_MAKEPROG,
+2691,BBRR2_FED_NOMALE_PAIDINFULL,
+2692,BBRR2_FED_NOMALE_DISCHARGE,
+2693,BBRR2_PP_IND_N,
+2694,BBRR2_PP_IND_DFLT,
+2695,BBRR2_PP_IND_DLNQ,
+2696,BBRR2_PP_IND_FBR,
+2697,BBRR2_PP_IND_DFR,
+2698,BBRR2_PP_IND_NOPROG,
+2699,BBRR2_PP_IND_MAKEPROG,
+2700,BBRR2_PP_IND_PAIDINFULL,
+2701,BBRR2_PP_IND_DISCHARGE,
+2702,BBRR2_PP_DEP_N,
+2703,BBRR2_PP_DEP_DFLT,
+2704,BBRR2_PP_DEP_DLNQ,
+2705,BBRR2_PP_DEP_FBR,
+2706,BBRR2_PP_DEP_DFR,
+2707,BBRR2_PP_DEP_NOPROG,
+2708,BBRR2_PP_DEP_MAKEPROG,
+2709,BBRR2_PP_DEP_PAIDINFULL,
+2710,BBRR2_PP_DEP_DISCHARGE,
+2711,BBRR2_PP_PELL_N,
+2712,BBRR2_PP_PELL_DFLT,
+2713,BBRR2_PP_PELL_DLNQ,
+2714,BBRR2_PP_PELL_FBR,
+2715,BBRR2_PP_PELL_DFR,
+2716,BBRR2_PP_PELL_NOPROG,
+2717,BBRR2_PP_PELL_MAKEPROG,
+2718,BBRR2_PP_PELL_PAIDINFULL,
+2719,BBRR2_PP_PELL_DISCHARGE,
+2720,BBRR2_PP_NOPELL_N,
+2721,BBRR2_PP_NOPELL_DFLT,
+2722,BBRR2_PP_NOPELL_DLNQ,
+2723,BBRR2_PP_NOPELL_FBR,
+2724,BBRR2_PP_NOPELL_DFR,
+2725,BBRR2_PP_NOPELL_NOPROG,
+2726,BBRR2_PP_NOPELL_MAKEPROG,
+2727,BBRR2_PP_NOPELL_PAIDINFULL,
+2728,BBRR2_PP_NOPELL_DISCHARGE,
+2729,BBRR2_PP_MALE_N,
+2730,BBRR2_PP_MALE_DFLT,
+2731,BBRR2_PP_MALE_DLNQ,
+2732,BBRR2_PP_MALE_FBR,
+2733,BBRR2_PP_MALE_DFR,
+2734,BBRR2_PP_MALE_NOPROG,
+2735,BBRR2_PP_MALE_MAKEPROG,
+2736,BBRR2_PP_MALE_PAIDINFULL,
+2737,BBRR2_PP_MALE_DISCHARGE,
+2738,BBRR2_PP_NOMALE_N,
+2739,BBRR2_PP_NOMALE_DFLT,
+2740,BBRR2_PP_NOMALE_DLNQ,
+2741,BBRR2_PP_NOMALE_FBR,
+2742,BBRR2_PP_NOMALE_DFR,
+2743,BBRR2_PP_NOMALE_NOPROG,
+2744,BBRR2_PP_NOMALE_MAKEPROG,
+2745,BBRR2_PP_NOMALE_PAIDINFULL,
+2746,BBRR2_PP_NOMALE_DISCHARGE,
+2747,BBRR3_FED_UG_N,
+2748,BBRR3_FED_UG_DFLT,
+2749,BBRR3_FED_UG_DLNQ,
+2750,BBRR3_FED_UG_FBR,
+2751,BBRR3_FED_UG_DFR,
+2752,BBRR3_FED_UG_NOPROG,
+2753,BBRR3_FED_UG_MAKEPROG,
+2754,BBRR3_FED_UG_PAIDINFULL,
+2755,BBRR3_FED_UG_DISCHARGE,
+2756,BBRR3_FED_UGCOMP_N,
+2757,BBRR3_FED_UGCOMP_DFLT,
+2758,BBRR3_FED_UGCOMP_DLNQ,
+2759,BBRR3_FED_UGCOMP_FBR,
+2760,BBRR3_FED_UGCOMP_DFR,
+2761,BBRR3_FED_UGCOMP_NOPROG,
+2762,BBRR3_FED_UGCOMP_MAKEPROG,
+2763,BBRR3_FED_UGCOMP_PAIDINFULL,
+2764,BBRR3_FED_UGCOMP_DISCHARGE,
+2765,BBRR3_FED_UGNOCOMP_N,
+2766,BBRR3_FED_UGNOCOMP_DFLT,
+2767,BBRR3_FED_UGNOCOMP_DLNQ,
+2768,BBRR3_FED_UGNOCOMP_FBR,
+2769,BBRR3_FED_UGNOCOMP_DFR,
+2770,BBRR3_FED_UGNOCOMP_NOPROG,
+2771,BBRR3_FED_UGNOCOMP_MAKEPROG,
+2772,BBRR3_FED_UGNOCOMP_PAIDINFULL,
+2773,BBRR3_FED_UGNOCOMP_DISCHARGE,
+2774,BBRR3_FED_UGUNK_N,
+2775,BBRR3_FED_UGUNK_DFLT,
+2776,BBRR3_FED_UGUNK_DLNQ,
+2777,BBRR3_FED_UGUNK_FBR,
+2778,BBRR3_FED_UGUNK_DFR,
+2779,BBRR3_FED_UGUNK_NOPROG,
+2780,BBRR3_FED_UGUNK_MAKEPROG,
+2781,BBRR3_FED_UGUNK_PAIDINFULL,
+2782,BBRR3_FED_UGUNK_DISCHARGE,
+2783,BBRR3_FED_GR_N,
+2784,BBRR3_FED_GR_DFLT,
+2785,BBRR3_FED_GR_DLNQ,
+2786,BBRR3_FED_GR_FBR,
+2787,BBRR3_FED_GR_DFR,
+2788,BBRR3_FED_GR_NOPROG,
+2789,BBRR3_FED_GR_MAKEPROG,
+2790,BBRR3_FED_GR_PAIDINFULL,
+2791,BBRR3_FED_GR_DISCHARGE,
+2792,BBRR3_FED_GRCOMP_N,
+2793,BBRR3_FED_GRCOMP_DFLT,
+2794,BBRR3_FED_GRCOMP_DLNQ,
+2795,BBRR3_FED_GRCOMP_FBR,
+2796,BBRR3_FED_GRCOMP_DFR,
+2797,BBRR3_FED_GRCOMP_NOPROG,
+2798,BBRR3_FED_GRCOMP_MAKEPROG,
+2799,BBRR3_FED_GRCOMP_PAIDINFULL,
+2800,BBRR3_FED_GRCOMP_DISCHARGE,
+2801,BBRR3_FED_GRNOCOMP_N,
+2802,BBRR3_FED_GRNOCOMP_DFLT,
+2803,BBRR3_FED_GRNOCOMP_DLNQ,
+2804,BBRR3_FED_GRNOCOMP_FBR,
+2805,BBRR3_FED_GRNOCOMP_DFR,
+2806,BBRR3_FED_GRNOCOMP_NOPROG,
+2807,BBRR3_FED_GRNOCOMP_MAKEPROG,
+2808,BBRR3_FED_GRNOCOMP_PAIDINFULL,
+2809,BBRR3_FED_GRNOCOMP_DISCHARGE,
+2810,BBRR3_PP_UG_N,
+2811,BBRR3_PP_UG_DFLT,
+2812,BBRR3_PP_UG_DLNQ,
+2813,BBRR3_PP_UG_FBR,
+2814,BBRR3_PP_UG_DFR,
+2815,BBRR3_PP_UG_NOPROG,
+2816,BBRR3_PP_UG_MAKEPROG,
+2817,BBRR3_PP_UG_PAIDINFULL,
+2818,BBRR3_PP_UG_DISCHARGE,
+2819,BBRR3_PP_UGCOMP_N,
+2820,BBRR3_PP_UGCOMP_DFLT,
+2821,BBRR3_PP_UGCOMP_DLNQ,
+2822,BBRR3_PP_UGCOMP_FBR,
+2823,BBRR3_PP_UGCOMP_DFR,
+2824,BBRR3_PP_UGCOMP_NOPROG,
+2825,BBRR3_PP_UGCOMP_MAKEPROG,
+2826,BBRR3_PP_UGCOMP_PAIDINFULL,
+2827,BBRR3_PP_UGCOMP_DISCHARGE,
+2828,BBRR3_PP_UGNOCOMP_N,
+2829,BBRR3_PP_UGNOCOMP_DFLT,
+2830,BBRR3_PP_UGNOCOMP_DLNQ,
+2831,BBRR3_PP_UGNOCOMP_FBR,
+2832,BBRR3_PP_UGNOCOMP_DFR,
+2833,BBRR3_PP_UGNOCOMP_NOPROG,
+2834,BBRR3_PP_UGNOCOMP_MAKEPROG,
+2835,BBRR3_PP_UGNOCOMP_PAIDINFULL,
+2836,BBRR3_PP_UGNOCOMP_DISCHARGE,
+2837,BBRR3_PP_UGUNK_N,
+2838,BBRR3_PP_UGUNK_DFLT,
+2839,BBRR3_PP_UGUNK_DLNQ,
+2840,BBRR3_PP_UGUNK_FBR,
+2841,BBRR3_PP_UGUNK_DFR,
+2842,BBRR3_PP_UGUNK_NOPROG,
+2843,BBRR3_PP_UGUNK_MAKEPROG,
+2844,BBRR3_PP_UGUNK_PAIDINFULL,
+2845,BBRR3_PP_UGUNK_DISCHARGE,
+2846,BBRR3_FED_IND_N,
+2847,BBRR3_FED_IND_DFLT,
+2848,BBRR3_FED_IND_DLNQ,
+2849,BBRR3_FED_IND_FBR,
+2850,BBRR3_FED_IND_DFR,
+2851,BBRR3_FED_IND_NOPROG,
+2852,BBRR3_FED_IND_MAKEPROG,
+2853,BBRR3_FED_IND_PAIDINFULL,
+2854,BBRR3_FED_IND_DISCHARGE,
+2855,BBRR3_FED_DEP_N,
+2856,BBRR3_FED_DEP_DFLT,
+2857,BBRR3_FED_DEP_DLNQ,
+2858,BBRR3_FED_DEP_FBR,
+2859,BBRR3_FED_DEP_DFR,
+2860,BBRR3_FED_DEP_NOPROG,
+2861,BBRR3_FED_DEP_MAKEPROG,
+2862,BBRR3_FED_DEP_PAIDINFULL,
+2863,BBRR3_FED_DEP_DISCHARGE,
+2864,BBRR3_FED_PELL_N,
+2865,BBRR3_FED_PELL_DFLT,
+2866,BBRR3_FED_PELL_DLNQ,
+2867,BBRR3_FED_PELL_FBR,
+2868,BBRR3_FED_PELL_DFR,
+2869,BBRR3_FED_PELL_NOPROG,
+2870,BBRR3_FED_PELL_MAKEPROG,
+2871,BBRR3_FED_PELL_PAIDINFULL,
+2872,BBRR3_FED_PELL_DISCHARGE,
+2873,BBRR3_FED_NOPELL_N,
+2874,BBRR3_FED_NOPELL_DFLT,
+2875,BBRR3_FED_NOPELL_DLNQ,
+2876,BBRR3_FED_NOPELL_FBR,
+2877,BBRR3_FED_NOPELL_DFR,
+2878,BBRR3_FED_NOPELL_NOPROG,
+2879,BBRR3_FED_NOPELL_MAKEPROG,
+2880,BBRR3_FED_NOPELL_PAIDINFULL,
+2881,BBRR3_FED_NOPELL_DISCHARGE,
+2882,BBRR3_FED_MALE_N,
+2883,BBRR3_FED_MALE_DFLT,
+2884,BBRR3_FED_MALE_DLNQ,
+2885,BBRR3_FED_MALE_FBR,
+2886,BBRR3_FED_MALE_DFR,
+2887,BBRR3_FED_MALE_NOPROG,
+2888,BBRR3_FED_MALE_MAKEPROG,
+2889,BBRR3_FED_MALE_PAIDINFULL,
+2890,BBRR3_FED_MALE_DISCHARGE,
+2891,BBRR3_FED_NOMALE_N,
+2892,BBRR3_FED_NOMALE_DFLT,
+2893,BBRR3_FED_NOMALE_DLNQ,
+2894,BBRR3_FED_NOMALE_FBR,
+2895,BBRR3_FED_NOMALE_DFR,
+2896,BBRR3_FED_NOMALE_NOPROG,
+2897,BBRR3_FED_NOMALE_MAKEPROG,
+2898,BBRR3_FED_NOMALE_PAIDINFULL,
+2899,BBRR3_FED_NOMALE_DISCHARGE,
+2900,BBRR3_PP_IND_N,
+2901,BBRR3_PP_IND_DFLT,
+2902,BBRR3_PP_IND_DLNQ,
+2903,BBRR3_PP_IND_FBR,
+2904,BBRR3_PP_IND_DFR,
+2905,BBRR3_PP_IND_NOPROG,
+2906,BBRR3_PP_IND_MAKEPROG,
+2907,BBRR3_PP_IND_PAIDINFULL,
+2908,BBRR3_PP_IND_DISCHARGE,
+2909,BBRR3_PP_DEP_N,
+2910,BBRR3_PP_DEP_DFLT,
+2911,BBRR3_PP_DEP_DLNQ,
+2912,BBRR3_PP_DEP_FBR,
+2913,BBRR3_PP_DEP_DFR,
+2914,BBRR3_PP_DEP_NOPROG,
+2915,BBRR3_PP_DEP_MAKEPROG,
+2916,BBRR3_PP_DEP_PAIDINFULL,
+2917,BBRR3_PP_DEP_DISCHARGE,
+2918,BBRR3_PP_PELL_N,
+2919,BBRR3_PP_PELL_DFLT,
+2920,BBRR3_PP_PELL_DLNQ,
+2921,BBRR3_PP_PELL_FBR,
+2922,BBRR3_PP_PELL_DFR,
+2923,BBRR3_PP_PELL_NOPROG,
+2924,BBRR3_PP_PELL_MAKEPROG,
+2925,BBRR3_PP_PELL_PAIDINFULL,
+2926,BBRR3_PP_PELL_DISCHARGE,
+2927,BBRR3_PP_NOPELL_N,
+2928,BBRR3_PP_NOPELL_DFLT,
+2929,BBRR3_PP_NOPELL_DLNQ,
+2930,BBRR3_PP_NOPELL_FBR,
+2931,BBRR3_PP_NOPELL_DFR,
+2932,BBRR3_PP_NOPELL_NOPROG,
+2933,BBRR3_PP_NOPELL_MAKEPROG,
+2934,BBRR3_PP_NOPELL_PAIDINFULL,
+2935,BBRR3_PP_NOPELL_DISCHARGE,
+2936,BBRR3_PP_MALE_N,
+2937,BBRR3_PP_MALE_DFLT,
+2938,BBRR3_PP_MALE_DLNQ,
+2939,BBRR3_PP_MALE_FBR,
+2940,BBRR3_PP_MALE_DFR,
+2941,BBRR3_PP_MALE_NOPROG,
+2942,BBRR3_PP_MALE_MAKEPROG,
+2943,BBRR3_PP_MALE_PAIDINFULL,
+2944,BBRR3_PP_MALE_DISCHARGE,
+2945,BBRR3_PP_NOMALE_N,
+2946,BBRR3_PP_NOMALE_DFLT,
+2947,BBRR3_PP_NOMALE_DLNQ,
+2948,BBRR3_PP_NOMALE_FBR,
+2949,BBRR3_PP_NOMALE_DFR,
+2950,BBRR3_PP_NOMALE_NOPROG,
+2951,BBRR3_PP_NOMALE_MAKEPROG,
+2952,BBRR3_PP_NOMALE_PAIDINFULL,
+2953,BBRR3_PP_NOMALE_DISCHARGE,
+2954,COUNT_NWNE_1YR,"Treasury AY2016-17, AY2017-18 pooled cohort measured in CY2018, CY2019"
+2955,COUNT_WNE_1YR,"Treasury AY2016-17, AY2017-18 pooled cohort measured in CY2018, CY2019"
+2956,CNTOVER150_1YR,"Treasury AY2016-17, AY2017-18 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2957,GT_THRESHOLD_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2958,GT_THRESHOLD_P6_SUPP,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2959,MD_EARN_WNE_INC1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2960,MD_EARN_WNE_INC2_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2961,MD_EARN_WNE_INC3_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2962,MD_EARN_WNE_INDEP1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2963,MD_EARN_WNE_INDEP0_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2964,MD_EARN_WNE_MALE0_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2965,MD_EARN_WNE_MALE1_P6,"Treasury AY2011-12, AY2012-13 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2966,GT_THRESHOLD_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2967,COUNT_WNE_INC1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2968,MD_EARN_WNE_INC1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2969,COUNT_WNE_INC2_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2970,MD_EARN_WNE_INC2_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2971,COUNT_WNE_INC3_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2972,MD_EARN_WNE_INC3_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2973,COUNT_WNE_INDEP1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2974,MD_EARN_WNE_INDEP1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2975,COUNT_WNE_INDEP0_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2976,MD_EARN_WNE_INDEP0_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2977,COUNT_WNE_MALE0_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2978,MD_EARN_WNE_MALE0_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2979,COUNT_WNE_MALE1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019"
+2980,MD_EARN_WNE_MALE1_P8,"Treasury AY2009-10, AY2010-11 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2981,GT_THRESHOLD_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2982,MD_EARN_WNE_INC1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2983,MD_EARN_WNE_INC2_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2984,MD_EARN_WNE_INC3_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2985,MD_EARN_WNE_INDEP1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2986,MD_EARN_WNE_INDEP0_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2987,MD_EARN_WNE_MALE0_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2988,MD_EARN_WNE_MALE1_P10,"Treasury AY2007-08, AY2008-09 pooled cohort measured in CY2018, CY2019, inflation adjusted to 2020 dollars"
+2989,STUFACR,"Fall 2018, reported in IPEDS DCY2018-19"
+2990,IRPS_2MOR,"Fall 2018, reported in IPEDS DCY2018-19"
+2991,IRPS_AIAN,"Fall 2018, reported in IPEDS DCY2018-19"
+2992,IRPS_ASIAN,"Fall 2018, reported in IPEDS DCY2018-19"
+2993,IRPS_BLACK,"Fall 2018, reported in IPEDS DCY2018-19"
+2994,IRPS_HISP,"Fall 2018, reported in IPEDS DCY2018-19"
+2995,IRPS_NHPI,"Fall 2018, reported in IPEDS DCY2018-19"
+2996,IRPS_NRA,"Fall 2018, reported in IPEDS DCY2018-19"
+2997,IRPS_UNKN,"Fall 2018, reported in IPEDS DCY2018-19"
+2998,IRPS_WHITE,"Fall 2018, reported in IPEDS DCY2018-19"
+2999,IRPS_WOMEN,"Fall 2018, reported in IPEDS DCY2018-19"
+3000,IRPS_MEN,"Fall 2018, reported in IPEDS DCY2018-19"
+3001,MD_EARN_WNE_1YR,
+3002,GT_THRESHOLD_1YR,
+3003,COUNT_NWNE_4YR,
+3004,COUNT_WNE_4YR,
+3005,MD_EARN_WNE_4YR,
+3006,GT_THRESHOLD_4YR,
+3007,BBRR4_FED_UG_N,
+3008,BBRR4_FED_UG_DFLT,
+3009,BBRR4_FED_UG_DLNQ,
+3010,BBRR4_FED_UG_FBR,
+3011,BBRR4_FED_UG_DFR,
+3012,BBRR4_FED_UG_NOPROG,
+3013,BBRR4_FED_UG_MAKEPROG,
+3014,BBRR4_FED_UG_PAIDINFULL,
+3015,BBRR4_FED_UG_DISCHARGE,
+3016,BBRR4_FED_UGCOMP_N,
+3017,BBRR4_FED_UGCOMP_DFLT,
+3018,BBRR4_FED_UGCOMP_DLNQ,
+3019,BBRR4_FED_UGCOMP_FBR,
+3020,BBRR4_FED_UGCOMP_DFR,
+3021,BBRR4_FED_UGCOMP_NOPROG,
+3022,BBRR4_FED_UGCOMP_MAKEPROG,
+3023,BBRR4_FED_UGCOMP_PAIDINFULL,
+3024,BBRR4_FED_UGCOMP_DISCHARGE,
+3025,BBRR4_FED_UGNOCOMP_N,
+3026,BBRR4_FED_UGNOCOMP_DFLT,
+3027,BBRR4_FED_UGNOCOMP_DLNQ,
+3028,BBRR4_FED_UGNOCOMP_FBR,
+3029,BBRR4_FED_UGNOCOMP_DFR,
+3030,BBRR4_FED_UGNOCOMP_NOPROG,
+3031,BBRR4_FED_UGNOCOMP_MAKEPROG,
+3032,BBRR4_FED_UGNOCOMP_PAIDINFULL,
+3033,BBRR4_FED_UGNOCOMP_DISCHARGE,
+3034,BBRR4_FED_UGUNK_N,
+3035,BBRR4_FED_UGUNK_DFLT,
+3036,BBRR4_FED_UGUNK_DLNQ,
+3037,BBRR4_FED_UGUNK_FBR,
+3038,BBRR4_FED_UGUNK_DFR,
+3039,BBRR4_FED_UGUNK_NOPROG,
+3040,BBRR4_FED_UGUNK_MAKEPROG,
+3041,BBRR4_FED_UGUNK_PAIDINFULL,
+3042,BBRR4_FED_UGUNK_DISCHARGE,
+3043,BBRR4_FED_GR_N,
+3044,BBRR4_FED_GR_DFLT,
+3045,BBRR4_FED_GR_DLNQ,
+3046,BBRR4_FED_GR_FBR,
+3047,BBRR4_FED_GR_DFR,
+3048,BBRR4_FED_GR_NOPROG,
+3049,BBRR4_FED_GR_MAKEPROG,
+3050,BBRR4_FED_GR_PAIDINFULL,
+3051,BBRR4_FED_GR_DISCHARGE,
+3052,BBRR4_FED_GRCOMP_N,
+3053,BBRR4_FED_GRCOMP_DFLT,
+3054,BBRR4_FED_GRCOMP_DLNQ,
+3055,BBRR4_FED_GRCOMP_FBR,
+3056,BBRR4_FED_GRCOMP_DFR,
+3057,BBRR4_FED_GRCOMP_NOPROG,
+3058,BBRR4_FED_GRCOMP_MAKEPROG,
+3059,BBRR4_FED_GRCOMP_PAIDINFULL,
+3060,BBRR4_FED_GRCOMP_DISCHARGE,
+3061,BBRR4_FED_GRNOCOMP_N,
+3062,BBRR4_FED_GRNOCOMP_DFLT,
+3063,BBRR4_FED_GRNOCOMP_DLNQ,
+3064,BBRR4_FED_GRNOCOMP_FBR,
+3065,BBRR4_FED_GRNOCOMP_DFR,
+3066,BBRR4_FED_GRNOCOMP_NOPROG,
+3067,BBRR4_FED_GRNOCOMP_MAKEPROG,
+3068,BBRR4_FED_GRNOCOMP_PAIDINFULL,
+3069,BBRR4_FED_GRNOCOMP_DISCHARGE,
+3070,BBRR4_PP_UG_N,
+3071,BBRR4_PP_UG_DFLT,
+3072,BBRR4_PP_UG_DLNQ,
+3073,BBRR4_PP_UG_FBR,
+3074,BBRR4_PP_UG_DFR,
+3075,BBRR4_PP_UG_NOPROG,
+3076,BBRR4_PP_UG_MAKEPROG,
+3077,BBRR4_PP_UG_PAIDINFULL,
+3078,BBRR4_PP_UG_DISCHARGE,
+3079,BBRR4_PP_UGCOMP_N,
+3080,BBRR4_PP_UGCOMP_DFLT,
+3081,BBRR4_PP_UGCOMP_DLNQ,
+3082,BBRR4_PP_UGCOMP_FBR,
+3083,BBRR4_PP_UGCOMP_DFR,
+3084,BBRR4_PP_UGCOMP_NOPROG,
+3085,BBRR4_PP_UGCOMP_MAKEPROG,
+3086,BBRR4_PP_UGCOMP_PAIDINFULL,
+3087,BBRR4_PP_UGCOMP_DISCHARGE,
+3088,BBRR4_PP_UGNOCOMP_N,
+3089,BBRR4_PP_UGNOCOMP_DFLT,
+3090,BBRR4_PP_UGNOCOMP_DLNQ,
+3091,BBRR4_PP_UGNOCOMP_FBR,
+3092,BBRR4_PP_UGNOCOMP_DFR,
+3093,BBRR4_PP_UGNOCOMP_NOPROG,
+3094,BBRR4_PP_UGNOCOMP_MAKEPROG,
+3095,BBRR4_PP_UGNOCOMP_PAIDINFULL,
+3096,BBRR4_PP_UGNOCOMP_DISCHARGE,
+3097,BBRR4_PP_UGUNK_N,
+3098,BBRR4_PP_UGUNK_DFLT,
+3099,BBRR4_PP_UGUNK_DLNQ,
+3100,BBRR4_PP_UGUNK_FBR,
+3101,BBRR4_PP_UGUNK_DFR,
+3102,BBRR4_PP_UGUNK_NOPROG,
+3103,BBRR4_PP_UGUNK_MAKEPROG,
+3104,BBRR4_PP_UGUNK_PAIDINFULL,
+3105,BBRR4_PP_UGUNK_DISCHARGE,
+3106,BBRR4_FED_IND_N,
+3107,BBRR4_FED_IND_DFLT,
+3108,BBRR4_FED_IND_DLNQ,
+3109,BBRR4_FED_IND_FBR,
+3110,BBRR4_FED_IND_DFR,
+3111,BBRR4_FED_IND_NOPROG,
+3112,BBRR4_FED_IND_MAKEPROG,
+3113,BBRR4_FED_IND_PAIDINFULL,
+3114,BBRR4_FED_IND_DISCHARGE,
+3115,BBRR4_FED_DEP_N,
+3116,BBRR4_FED_DEP_DFLT,
+3117,BBRR4_FED_DEP_DLNQ,
+3118,BBRR4_FED_DEP_FBR,
+3119,BBRR4_FED_DEP_DFR,
+3120,BBRR4_FED_DEP_NOPROG,
+3121,BBRR4_FED_DEP_MAKEPROG,
+3122,BBRR4_FED_DEP_PAIDINFULL,
+3123,BBRR4_FED_DEP_DISCHARGE,
+3124,BBRR4_FED_PELL_N,
+3125,BBRR4_FED_PELL_DFLT,
+3126,BBRR4_FED_PELL_DLNQ,
+3127,BBRR4_FED_PELL_FBR,
+3128,BBRR4_FED_PELL_DFR,
+3129,BBRR4_FED_PELL_NOPROG,
+3130,BBRR4_FED_PELL_MAKEPROG,
+3131,BBRR4_FED_PELL_PAIDINFULL,
+3132,BBRR4_FED_PELL_DISCHARGE,
+3133,BBRR4_FED_NOPELL_N,
+3134,BBRR4_FED_NOPELL_DFLT,
+3135,BBRR4_FED_NOPELL_DLNQ,
+3136,BBRR4_FED_NOPELL_FBR,
+3137,BBRR4_FED_NOPELL_DFR,
+3138,BBRR4_FED_NOPELL_NOPROG,
+3139,BBRR4_FED_NOPELL_MAKEPROG,
+3140,BBRR4_FED_NOPELL_PAIDINFULL,
+3141,BBRR4_FED_NOPELL_DISCHARGE,
+3142,BBRR4_FED_MALE_N,
+3143,BBRR4_FED_MALE_DFLT,
+3144,BBRR4_FED_MALE_DLNQ,
+3145,BBRR4_FED_MALE_FBR,
+3146,BBRR4_FED_MALE_DFR,
+3147,BBRR4_FED_MALE_NOPROG,
+3148,BBRR4_FED_MALE_MAKEPROG,
+3149,BBRR4_FED_MALE_PAIDINFULL,
+3150,BBRR4_FED_MALE_DISCHARGE,
+3151,BBRR4_FED_NOMALE_N,
+3152,BBRR4_FED_NOMALE_DFLT,
+3153,BBRR4_FED_NOMALE_DLNQ,
+3154,BBRR4_FED_NOMALE_FBR,
+3155,BBRR4_FED_NOMALE_DFR,
+3156,BBRR4_FED_NOMALE_NOPROG,
+3157,BBRR4_FED_NOMALE_MAKEPROG,
+3158,BBRR4_FED_NOMALE_PAIDINFULL,
+3159,BBRR4_FED_NOMALE_DISCHARGE,
+3160,BBRR4_PP_IND_N,
+3161,BBRR4_PP_IND_DFLT,
+3162,BBRR4_PP_IND_DLNQ,
+3163,BBRR4_PP_IND_FBR,
+3164,BBRR4_PP_IND_DFR,
+3165,BBRR4_PP_IND_NOPROG,
+3166,BBRR4_PP_IND_MAKEPROG,
+3167,BBRR4_PP_IND_PAIDINFULL,
+3168,BBRR4_PP_IND_DISCHARGE,
+3169,BBRR4_PP_DEP_N,
+3170,BBRR4_PP_DEP_DFLT,
+3171,BBRR4_PP_DEP_DLNQ,
+3172,BBRR4_PP_DEP_FBR,
+3173,BBRR4_PP_DEP_DFR,
+3174,BBRR4_PP_DEP_NOPROG,
+3175,BBRR4_PP_DEP_MAKEPROG,
+3176,BBRR4_PP_DEP_PAIDINFULL,
+3177,BBRR4_PP_DEP_DISCHARGE,
+3178,BBRR4_PP_PELL_N,
+3179,BBRR4_PP_PELL_DFLT,
+3180,BBRR4_PP_PELL_DLNQ,
+3181,BBRR4_PP_PELL_FBR,
+3182,BBRR4_PP_PELL_DFR,
+3183,BBRR4_PP_PELL_NOPROG,
+3184,BBRR4_PP_PELL_MAKEPROG,
+3185,BBRR4_PP_PELL_PAIDINFULL,
+3186,BBRR4_PP_PELL_DISCHARGE,
+3187,BBRR4_PP_NOPELL_N,
+3188,BBRR4_PP_NOPELL_DFLT,
+3189,BBRR4_PP_NOPELL_DLNQ,
+3190,BBRR4_PP_NOPELL_FBR,
+3191,BBRR4_PP_NOPELL_DFR,
+3192,BBRR4_PP_NOPELL_NOPROG,
+3193,BBRR4_PP_NOPELL_MAKEPROG,
+3194,BBRR4_PP_NOPELL_PAIDINFULL,
+3195,BBRR4_PP_NOPELL_DISCHARGE,
+3196,BBRR4_PP_MALE_N,
+3197,BBRR4_PP_MALE_DFLT,
+3198,BBRR4_PP_MALE_DLNQ,
+3199,BBRR4_PP_MALE_FBR,
+3200,BBRR4_PP_MALE_DFR,
+3201,BBRR4_PP_MALE_NOPROG,
+3202,BBRR4_PP_MALE_MAKEPROG,
+3203,BBRR4_PP_MALE_PAIDINFULL,
+3204,BBRR4_PP_MALE_DISCHARGE,
+3205,BBRR4_PP_NOMALE_N,
+3206,BBRR4_PP_NOMALE_DFLT,
+3207,BBRR4_PP_NOMALE_DLNQ,
+3208,BBRR4_PP_NOMALE_FBR,
+3209,BBRR4_PP_NOMALE_DFR,
+3210,BBRR4_PP_NOMALE_NOPROG,
+3211,BBRR4_PP_NOMALE_MAKEPROG,
+3212,BBRR4_PP_NOMALE_PAIDINFULL,
+3213,BBRR4_PP_NOMALE_DISCHARGE,
+3214,CONTROL_PEPS,
+3215,ADM_RATE_SUPP,
+3216,OMENRYP_NOPELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3217,OMENRAP_NOPELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3218,OMAWDP8_NOPELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3219,OMENRUP_NOPELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3220,OMENRYP_NOPELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3221,OMENRAP_NOPELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3222,OMAWDP8_NOPELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3223,OMENRUP_NOPELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3224,OMENRYP_NOPELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3225,OMENRAP_NOPELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3226,OMAWDP8_NOPELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3227,OMENRUP_NOPELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3228,OMACHT8_NOPELL_ALL,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3229,OMACHT8_NOPELL_FIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3230,OMACHT8_NOPELL_NOTFIRSTTIME,"AY 2010-11 cohort, reported in IPEDS DCY2018-19"
+3231,ADDR,
+3232,PCTPELL_DCS,
+3233,PCTFLOAN_DCS,
+3234,DCS_PELL_LOAN,
+3235,PCTPELL_DCS_POOLED_SUPP,
+3236,PCTFLOAN_DCS_POOLED_SUPP,
+3237,DCS_PELL_LOAN_POOLED,
+3238,POOLYRS_DCS,
+3239,SATVR50,
+3240,SATMT50,
+3241,ACTCM50,
+3242,ACTEN50,
+3243,ACTMT50,
