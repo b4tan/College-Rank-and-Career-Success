@@ -1,4 +1,4 @@
-,INSTNM,COSTT4_A,BOOKSUPPLY,GRAD_DEBT_MDN,PCT75_EARN_WNE_P8,PCT25_EARN_WNE_P8,MD_EARN_WNE_P6,MD_EARN_WNE_P10,NationalRank
+,institution,avg_cost,supply_cost,avg_debt,75%_earnings_8_yrs,25%_earnings_8_yrs,earnings_6_yrs,earnings_10_yrs,rank
 0,Harvard University,71135.0,1000.0,13750.0,135753.0,45980.0,77816.0,84918.0,1.0
 1,Stanford University,69109.0,1455.0,11750.0,166805.0,58448.0,88873.0,97798.0,2.0
 2,Massachusetts Institute of Technology,67430.0,800.0,12500.0,169114.0,75080.0,112623.0,111222.0,3.0
