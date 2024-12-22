@@ -1,5 +1,1 @@
-# Problems with files in uploading:
-
-File Data/College_Scorecard_Data.csv is 88.13 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-File 2018_2019_College_Data.csv is 86.54 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-File Data/College_Scorecard_Data.csv is 88.14 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+Does receiving an undergraduate degree from a top-20 United States engineering university improve career success in the tech industry in the United States as oppposed to receiving an undergraduate degree from a top-100 engineering university when career success is measured by mid-career salary, their job satisfaction, their job security, and their work-life balance?
